@@ -1,0 +1,33 @@
+{
+  "verified_on": null,
+  "note": "Founder verifies every number before each release and sets verified_on (YYYY-MM-DD). Until then the Help screen shows the line as not yet verified.",
+  "countries": [
+    {"code": "US", "name_en": "United States", "name_zh": "美國", "lines": [
+      {"name": "988 Suicide & Crisis Lifeline", "number": "988"}
+    ]},
+    {"code": "GB", "name_en": "United Kingdom", "name_zh": "英國", "lines": [
+      {"name": "Samaritans", "number": "116 123"}
+    ]},
+    {"code": "CA", "name_en": "Canada", "name_zh": "加拿大", "lines": [
+      {"name": "9-8-8 Suicide Crisis Helpline", "number": "988"}
+    ]},
+    {"code": "AU", "name_en": "Australia", "name_zh": "澳洲", "lines": [
+      {"name": "Lifeline", "number": "13 11 14"}
+    ]},
+    {"code": "TW", "name_en": "Taiwan", "name_zh": "台灣", "lines": [
+      {"name": "安心專線", "number": "1925"},
+      {"name": "生命線", "number": "1995"}
+    ]},
+    {"code": "HK", "name_en": "Hong Kong", "name_zh": "香港", "lines": [
+      {"name": "撒瑪利亞防止自殺會", "number": "2389 2222"},
+      {"name": "The Samaritans", "number": "2896 0000"}
+    ]},
+    {"code": "SG", "name_en": "Singapore", "name_zh": "新加坡", "lines": [
+      {"name": "Samaritans of Singapore", "number": "1767"}
+    ]},
+    {"code": "MY", "name_en": "Malaysia", "name_zh": "馬來西亞", "lines": [
+      {"name": "Befrienders KL", "number": "03-7627 2929"},
+      {"name": "Talian HEAL", "number": "15555"}
+    ]}
+  ]
+}

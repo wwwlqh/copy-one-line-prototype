@@ -1,0 +1,61 @@
+{
+  "id": "ddj-003",
+  "pack_id": "v1",
+  "order": 3,
+  "draft": true,
+  "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 45,
+    "source_edition": "王弼本, Chinese Wikisource",
+    "source_url": "https://zh.wikisource.org/wiki/道德經",
+    "licence": "public domain"
+  },
+  "line": "大巧若拙",
+  "chars": [
+    {
+      "trad": "大",
+      "data_key": "大"
+    },
+    {
+      "trad": "巧",
+      "data_key": "巧"
+    },
+    {
+      "trad": "若",
+      "data_key": "若"
+    },
+    {
+      "trad": "拙",
+      "data_key": "拙"
+    }
+  ],
+  "meaning": {
+    "en": {
+      "translation": "Great skill looks clumsy.",
+      "plain": "Draft.",
+      "story": "Draft. The story for this line has not been written yet. It will be written by the curator, reviewed by a second person against the safety rubric, and replaced here before the trial. This placeholder exists so the reading sheet can be laid out at every text size.",
+      "reminder": "Draft.",
+      "acting": "Draft."
+    },
+    "zh_hant": {
+      "translation": "大巧若拙。",
+      "plain": "草稿。",
+      "story": "草稿。這一句的故事尚未撰寫，將由策展人撰寫、第二人依安全規範審閱後替換。",
+      "reminder": "草稿。",
+      "acting": "草稿。"
+    }
+  },
+  "tags": [],
+  "sensitivity": "none",
+  "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+  },
+  "register_lint": null,
+  "curator": null,
+  "translator": "draft"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ddj-005",
+  "pack_id": "v1",
+  "order": 5,
+  "draft": true,
+  "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 64,
+    "source_edition": "王弼本, Chinese Wikisource",
+    "source_url": "https://zh.wikisource.org/wiki/道德經",
+    "licence": "public domain"
+  },
+  "line": "千里之行始於足下",
+  "chars": [
+    {
+      "trad": "千",
+      "data_key": "千"
+    },
+    {
+      "trad": "里",
+      "data_key": "里"
+    },
+    {
+      "trad": "之",
+      "data_key": "之"
+    },
+    {
+      "trad": "行",
+      "data_key": "行"
+    },
+    {
+      "trad": "始",
+      "data_key": "始"
+    },
+    {
+      "trad": "於",
+      "data_key": "於"
+    },
+    {
+      "trad": "足",
+      "data_key": "足"
+    },
+    {
+      "trad": "下",
+      "data_key": "下"
+    }
+  ],
+  "meaning": {
+    "en": {
+      "translation": "A journey of a thousand miles begins under your feet.",
+      "plain": "Draft.",
+      "story": "Draft. The story for this line has not been written yet. It will be written by the curator, reviewed by a second person against the safety rubric, and replaced here before the trial. This placeholder exists so the reading sheet can be laid out at every text size.",
+      "reminder": "Draft.",
+      "acting": "Draft."
+    },
+    "zh_hant": {
+      "translation": "千里之行，始於足下。",
+      "plain": "草稿。",
+      "story": "草稿。這一句的故事尚未撰寫，將由策展人撰寫、第二人依安全規範審閱後替換。",
+      "reminder": "草稿。",
+      "acting": "草稿。"
+    }
+  },
+  "tags": [],
+  "sensitivity": "none",
+  "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+  },
+  "register_lint": null,
+  "curator": null,
+  "translator": "draft"
+}
