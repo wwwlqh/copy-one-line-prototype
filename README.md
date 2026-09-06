@@ -58,6 +58,12 @@ and edit `LINE` and the gloss in `template.html`.
 4. Do they take the two-minute breath or skip it?
 5. Would they want to keep the finished line?
 
+## Stroke data used by the app
+
+`stroke-data/` holds the exact hanzi-writer-data files bundled in the Copy One
+Line app, unchanged, with `CHANGES.md` and the Arphic Public License text, as
+that licence asks. The app's privacy policy is at `privacy.html`.
+
 ## Licences
 
 The page itself (HTML, CSS, script, copy) is © 2026 wwwlqh, all rights
