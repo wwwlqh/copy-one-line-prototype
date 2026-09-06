@@ -1,0 +1,2130 @@
+{
+ "id": "opening",
+ "name_zh": "開篇四十句",
+ "name_en": "The opening forty",
+ "curated": true,
+ "edition_zh": "從道德經、莊子、壇經、禪語、金剛經、心經選出的四十句",
+ "edition_en": "Forty lines chosen from the five texts",
+ "chapters": [
+  {
+   "n": 1,
+   "title_zh": "道德經 第8章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-001",
+   "lines": [
+    "上善若水"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "water"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The highest excellence is like (that of) water.",
+     "plain": "The rent is due, the boss is short with you, and there is no fight left in you for either.",
+     "story": "Water does not argue with the rock. It goes round, or under, or waits until the rock is worn down to sand. Laozi noticed that water benefits everything it touches and still takes the low place that nobody wants: the ditch, the drain, the bottom of the valley. It is not weak there. It is where everything ends up flowing to.\n\nThink of a month when the money is short and the messages from work keep coming. The instinct is to push back on all of it at once, and by the end of the week there is nothing left. Water suggests a different order. Take the low place on purpose: do the one bill that can be paid, answer the one message that matters, and let the rest come to you in its own time. Nothing is being surrendered. The rent still gets paid. The boss still gets an answer. The difference is that the force comes from patience and direction rather than from bracing.\n\nThe line is four characters, and the last one is water itself. Write it slowly. The strokes of 水 fall like drops.",
+     "reminder": "Take the low place, then keep flowing.",
+     "acting": "Pay the one bill you can pay today, and answer the one message that matters.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "最好的樣子，就像水一樣。",
+     "plain": "房租快到期，主管口氣很衝，而你已經沒有力氣跟這兩件事對抗。",
+     "story": "水不跟石頭爭。它繞過去，或從底下鑽過去，或者等，等到石頭磨成沙。老子看見水滋潤萬物，卻總是停在沒有人要的低處：水溝、排水口、山谷的最底。它在那裡並不軟弱。所有的東西，最後都往那裡流。\n\n想一想那種錢不夠、工作訊息又一直進來的月份。本能是一次頂回去，結果一週還沒過完，人就空了。水給的是另一種順序。刻意站在低處：先付那一張付得出的帳單，先回那一則最要緊的訊息，其餘的，讓它按自己的時間流過來。這不是放棄什麼。房租照樣要繳，主管照樣會得到回覆。差別在於力氣來自耐心和方向，而不是來自硬撐。\n\n這一句只有四個字，最後一個字就是水。慢慢寫。水的筆畫，像一滴一滴落下來。",
+     "reminder": "先站到低處，然後繼續流。",
+     "acting": "今天先付那一張付得出的帳單，先回那一則最要緊的訊息。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "最好的样子，就像水一样。",
+     "plain": "房租快到期，主管口气很冲，而你已经没有力气跟这两件事对抗。",
+     "story": "水不跟石头争。它绕过去，或从底下钻过去，或者等，等到石头磨成沙。老子看见水滋润万物，却总是停在没有人要的低处：水沟、排水口、山谷的最底。它在那里并不软弱。所有的东西，最后都往那里流。\n\n想一想那种钱不够、工作消息又一直进来的月份。本能是一次顶回去，结果一周还没过完，人就空了。水给的是另一种顺序。刻意站在低处：先付那一张付得出的帐单，先回那一则最要紧的消息，其余的，让它按自己的时间流过来。这不是放弃什么。房租照样要缴，主管照样会得到回复。差别在于力气来自耐心和方向，而不是来自硬撑。\n\n这一句只有四个字，最后一个字就是水。慢慢写。水的笔画，像一滴一滴落下来。",
+     "reminder": "先站到低处，然后继续流。",
+     "acting": "今天先付那一张付得出的帐单，先回那一则最要紧的消息。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 8,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 2,
+   "title_zh": "道德經 第22章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-002",
+   "lines": [
+    "曲則全"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "letting_go"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The partial becomes complete; the crooked, straight.",
+     "plain": "A plan for the year has bent out of shape: the job, the move, the savings, none of it went straight.",
+     "story": "A tree that bends in the wind keeps its roots. A tree that refuses to bend is the one that is found on the road the next morning. Laozi puts it in three characters: what bends stays whole.\n\nMost of the year does not go the way it was drawn in January. The job changed, the move was delayed, the savings went to a repair instead of a holiday. It is easy to read that as failure, and the line says something else. The bent shape is the shape of a thing that survived. The curve in the plan is where the plan met the world and gave a little, and giving a little is how it stayed in one piece.\n\nThis is not a reason to stop steering. The repair still needs paying for, and the move still needs a date. It is a reason to stop measuring the year against the straight line that never existed outside the drawing. Write the three characters and notice how the first one, 曲, is all corners, and how it still stands.",
+     "reminder": "Bent is the shape of what survived.",
+     "acting": "Redraw the plan with the bend in it, and give the next step a date.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "能彎的，才保得住完整。",
+     "plain": "一整年的計畫都變了形：工作、搬家、存款，沒有一件照直線走。",
+     "story": "風裡會彎的樹，根還在。不肯彎的那一棵，隔天早上就躺在路上。老子用三個字說完：能彎的，才保得住完整。\n\n一年多半不會照一月時畫的樣子走。工作變了，搬家延後了，存款拿去修東西而不是去旅行。很容易把這些讀成失敗，但這一句說的是別的事。彎掉的形狀，是活下來的東西的形狀。計畫裡那一道彎，是計畫碰到世界時讓了一點的地方，而讓一點，正是它還在的原因。\n\n這不是不再掌舵的理由。修理費還是要付，搬家還是要有日期。它是一個理由，讓你不再拿一條圖紙以外從來不存在的直線來量這一年。把三個字寫下來，看第一個字「曲」，全是轉角，卻還站得住。",
+     "reminder": "彎，是活下來的東西的形狀。",
+     "acting": "把那道彎畫進計畫裡，然後給下一步一個日期。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "能弯的，才保得住完整。",
+     "plain": "一整年的计划都变了形：工作、搬家、存款，没有一件照直线走。",
+     "story": "风里会弯的树，根还在。不肯弯的那一棵，隔天早上就躺在路上。老子用三个字说完：能弯的，才保得住完整。\n\n一年多半不会照一月时画的样子走。工作变了，搬家延后了，存款拿去修东西而不是去旅行。很容易把这些读成失败，但这一句说的是别的事。弯掉的形状，是活下来的东西的形状。计划里那一道弯，是计划碰到世界时让了一点的地方，而让一点，正是它还在的原因。\n\n这不是不再掌舵的理由。修理费还是要付，搬家还是要有日期。它是一个理由，让你不再拿一条图纸以外从来不存在的直线来量这一年。把三个字写下来，看第一个字「曲」，全是转角，却还站得住。",
+     "reminder": "弯，是活下来的东西的形状。",
+     "acting": "把那道弯画进计划里，然后给下一步一个日期。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 22,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 3,
+   "title_zh": "道德經 第45章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-003",
+   "lines": [
+    "大巧若拙"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Thy greatest art still stupid seem.",
+     "plain": "At work you are slower and quieter than the people who talk well, and the promotion went to one of them.",
+     "story": "Laozi's list in this chapter is a set of reversals: the fullest thing looks empty, the straightest looks bent, and the greatest skill looks clumsy. Legge's Victorian verse makes the last one sound harsh, but the Chinese is gentle. 拙 is the word for a beginner's hand, honest and unpolished.\n\nThere is a kind of skill that shows, and a kind that hides. The person who talks well in meetings has the first kind. The person who quietly makes the thing work, and whose work nobody has to redo, has the second. In the short run the first kind is rewarded, and the promotion going the other way is a real loss, of money and of standing. The line does not pretend otherwise. It only points out that the clumsy-looking skill is the one that lasts, because it was never for show.\n\nWrite the four characters with a beginner's hand. That is exactly what the line asks for.",
+     "reminder": "The skill that hides is the one that lasts.",
+     "acting": "Write down one thing your quiet work made possible this month, and tell the person who decides.",
+     "translator": "Legge 1891 (verse rendering)"
+    },
+    "zh_hant": {
+     "translation": "真正的巧，看起來像笨拙。",
+     "plain": "在公司裡，你比那些會講話的人慢、也安靜，而升遷的是他們其中一個。",
+     "story": "老子在這一章列了一串顛倒：最滿的看起來空，最直的看起來彎，最巧的看起來笨。「拙」這個字，說的是初學者的手，老實，沒有修飾。\n\n本事有兩種，一種看得見，一種藏起來。開會講得好的人，有第一種。安安靜靜把事情做到能用、沒有人需要重做的人，有第二種。短期裡，第一種比較被獎賞，升遷落到別人那邊，是真實的損失，錢和地位都是。這一句沒有假裝不是。它只是指出，看起來笨拙的那種本事，才留得久，因為它從來就不是做給人看的。\n\n用初學者的手把四個字寫下來。這正是這一句要的。",
+     "reminder": "藏起來的本事，才留得久。",
+     "acting": "寫下這個月你安靜做成的一件事，然後告訴那個做決定的人。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "真正的巧，看起来像笨拙。",
+     "plain": "在公司里，你比那些会讲话的人慢、也安静，而升迁的是他们其中一个。",
+     "story": "老子在这一章列了一串颠倒：最满的看起来空，最直的看起来弯，最巧的看起来笨。「拙」这个字，说的是初学者的手，老实，没有修饰。\n\n本事有两种，一种看得见，一种藏起来。开会讲得好的人，有第一种。安安静静把事情做到能用、没有人需要重做的人，有第二种。短期里，第一种比较被奖赏，升迁落到别人那边，是真实的损失，钱和地位都是。这一句没有假装不是。它只是指出，看起来笨拙的那种本事，才留得久，因为它从来就不是做给人看的。\n\n用初学者的手把四个字写下来。这正是这一句要的。",
+     "reminder": "藏起来的本事，才留得久。",
+     "acting": "写下这个月你安静做成的一件事，然后告诉那个做决定的人。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 45,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 4,
+   "title_zh": "道德經 第36章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-004",
+   "lines": [
+    "柔弱勝剛強"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "water"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The soft overcomes the hard; and the weak the strong.",
+     "plain": "Someone at home or at work pushes hard, and you have been pushing back just as hard, and both of you are tired.",
+     "story": "Teeth are hard and fall out. The tongue is soft and stays. Laozi liked this kind of evidence: water wears the stone, the reed survives the storm that snaps the oak. Soft is not the same as giving in. It is the choice not to meet force with the same force.\n\nPicture the argument that keeps restarting, with a parent, a partner, a colleague. Each round, the voices get harder and nothing moves. The line suggests trying the other material. Say the thing once, quietly, and then stop pushing. Let the silence do the work that the volume could not. The other person's pressure still exists, and the disagreement is still real; softness does not erase either. What it changes is that there is now something for the pressure to land on that does not crack.\n\nThe five characters run from soft to strong across the page. Write the first two slowly and the last two firmly, and feel the difference in your hand.",
+     "reminder": "Meet the hard thing with the soft one.",
+     "acting": "Say it once, quietly, then stop pushing and let the silence work.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "柔軟的，勝過剛硬的。",
+     "plain": "家裡或公司裡有一個人很用力地推你，你也一樣用力推回去，兩個人都累了。",
+     "story": "牙齒硬，會掉。舌頭軟，留下來。老子喜歡這種證據：水磨石頭，蘆葦撐過折斷橡樹的那場風。柔軟不是認輸。它是選擇不用同樣的力氣去頂同樣的力氣。\n\n想一想那一場一直重來的爭執，跟父母、跟伴侶、跟同事。每一回合聲音都更硬，什麼都沒有動。這一句建議換一種材質。安靜地把話說一次，然後不再推。讓沉默去做音量做不到的事。對方的壓力還在，分歧也還是真的；柔軟不會抹掉這兩件事。它改變的是，現在有一樣東西讓那股壓力落下來，而且不會裂。\n\n五個字從柔到強橫過紙面。前兩個字慢慢寫，後兩個字寫穩，感覺手裡的差別。",
+     "reminder": "用軟的，去接硬的。",
+     "acting": "安靜地把話說一次，然後停下來，讓沉默去做事。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "柔软的，胜过刚硬的。",
+     "plain": "家里或公司里有一个人很用力地推你，你也一样用力推回去，两个人都累了。",
+     "story": "牙齿硬，会掉。舌头软，留下来。老子喜欢这种证据：水磨石头，芦苇撑过折断橡树的那场风。柔软不是认输。它是选择不用同样的力气去顶同样的力气。\n\n想一想那一场一直重来的争执，跟父母、跟伴侣、跟同事。每一回合声音都更硬，什么都没有动。这一句建议换一种材质。安静地把话说一次，然后不再推。让沉默去做音量做不到的事。对方的压力还在，分歧也还是真的；柔软不会抹掉这两件事。它改变的是，现在有一样东西让那股压力落下来，而且不会裂。\n\n五个字从柔到强横过纸面。前两个字慢慢写，后两个字写稳，感觉手里的差别。",
+     "reminder": "用软的，去接硬的。",
+     "acting": "安静地把话说一次，然后停下来，让沉默去做事。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 36,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 5,
+   "title_zh": "道德經 第64章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-005",
+   "lines": [
+    "千里之行始於足下"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "acting"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The journey of a thousand li commenced with a single step.",
+     "plain": "The debt, the degree, the house deposit: the number is so large that starting feels pointless.",
+     "story": "A li is about half a kilometre. A thousand of them is the distance from Taipei to Hong Kong, walked. Laozi does not say the walk is short or the road is easy. He says where it starts: under your feet, at the one step that is possible right now.\n\nBig numbers do something to the mind. A debt with five digits, a deposit with six, a course that takes four years: the whole of it arrives at once and the body refuses. The line separates the whole from the step. The whole is real and stays real. The step is also real and is the only part that can be done today. One transfer of a small amount. One page of the application. One phone call to ask what the actual number is. The road does not get shorter, but you are on it, and being on it feels different from standing at the edge.\n\nThis is the longest line in the first week, eight characters. Take them one at a time. That is the whole teaching.",
+     "reminder": "The road starts under your feet.",
+     "acting": "Do the one step that fits inside today: one payment, one page, one call.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "千里的路，從腳下這一步開始。",
+     "plain": "債務、學位、房子的頭期款：數字大到讓人覺得開始也沒有用。",
+     "story": "一里大約半公里。一千里，差不多是從台北走到香港的距離。老子沒有說路很短，也沒有說路好走。他說的是路從哪裡開始：在你的腳下，在現在做得到的這一步。\n\n大數字會對人做一件事。五位數的債，六位數的頭期款，四年的課程：整個一次到齊，身體就不肯動。這一句把「整個」和「一步」分開。整個是真的，而且一直是真的。這一步也是真的，而且是今天唯一做得到的那部分。轉一筆小小的錢。填一頁申請表。打一通電話，問清楚真正的數字是多少。路沒有變短，但你在路上了，在路上和站在路口，感覺不一樣。\n\n這是第一週最長的一句，八個字。一次寫一個。這就是整句話要教的。",
+     "reminder": "路，從腳下開始。",
+     "acting": "做今天放得進去的那一步：一筆錢、一頁表、一通電話。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "千里的路，从脚下这一步开始。",
+     "plain": "债务、学位、房子的头期款：数字大到让人觉得开始也没有用。",
+     "story": "一里大约半公里。一千里，差不多是从台北走到香港的距离。老子没有说路很短，也没有说路好走。他说的是路从哪里开始：在你的脚下，在现在做得到的这一步。\n\n大数字会对人做一件事。五位数的债，六位数的头期款，四年的课程：整个一次到齐，身体就不肯动。这一句把「整个」和「一步」分开。整个是真的，而且一直是真的。这一步也是真的，而且是今天唯一做得到的那部分。转一笔小小的钱。填一页申请表。打一通电话，问清楚真正的数字是多少。路没有变短，但你在路上了，在路上和站在路口，感觉不一样。\n\n这是第一周最长的一句，八个字。一次写一个。这就是整句话要教的。",
+     "reminder": "路，从脚下开始。",
+     "acting": "做今天放得进去的那一步：一笔钱、一页表、一通电话。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 64,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 6,
+   "title_zh": "道德經 第26章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-006",
+   "lines": [
+    "靜為躁君"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Stillness, the ruler of movement.",
+     "plain": "The phone, the chat groups and the news have not left you a quiet minute in weeks.",
+     "story": "The chapter this line comes from describes a prince who travels all day and never strays far from the heavy wagons that carry his supplies. The bright sights along the road do not pull him off course. Stillness is the wagon, the heavy thing that everything else is organised around.\n\nA phone is the opposite of a wagon. It is light, it is always bright, and it pulls constantly. The line is not asking anyone to give it up. Bills are paid on it, family is on it, the job is on it. The line only says which of the two is meant to be in charge. Restlessness is a good servant and a poor master. When stillness rules, the movement still happens, but it happens in an order that someone chose.\n\nThe evidence is in your hands right now. For the length of four characters the phone is propped up and the pen is moving. That is stillness ruling movement, for about two minutes. It counts.",
+     "reminder": "Stillness first; the movement can wait two minutes.",
+     "acting": "Choose the one thing on the phone that needs doing, do it, then put the phone face down.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "安靜，是躁動的主人。",
+     "plain": "手機、群組、新聞，好幾個星期沒有留給你一分鐘安靜。",
+     "story": "這一句出自的那一章，寫一位整天趕路的君王，始終不離開載著補給的重車。路上再亮的風景，都拉不走他。安靜就是那輛重車，其他一切都繞著它安排。\n\n手機和重車正好相反。它輕，它一直亮，它一直在拉。這一句沒有要誰放掉它。帳單在上面付，家人在上面，工作也在上面。這一句只說，兩者之中誰該當家。躁動是好僕人，壞主人。當安靜當家，動還是會發生，只是發生在某個人選好的順序裡。\n\n證據就在你手上。寫這四個字的時間裡，手機立在一旁，筆在動。這就是安靜在管著躁動，大概兩分鐘。算數的。",
+     "reminder": "先安靜，動的事可以等兩分鐘。",
+     "acting": "挑出手機上真正要做的那一件，做完，然後把手機翻過來放。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "安静，是躁动的主人。",
+     "plain": "手机、群、新闻，好几个星期没有留给你一分钟安静。",
+     "story": "这一句出自的那一章，写一位整天赶路的君王，始终不离开载着补给的重车。路上再亮的风景，都拉不走他。安静就是那辆重车，其他一切都绕着它安排。\n\n手机和重车正好相反。它轻，它一直亮，它一直在拉。这一句没有要谁放掉它。帐单在上面付，家人在上面，工作也在上面。这一句只说，两者之中谁该当家。躁动是好仆人，坏主人。当安静当家，动还是会发生，只是发生在某个人选好的顺序里。\n\n证据就在你手上。写这四个字的时间里，手机立在一旁，笔在动。这就是安静在管着躁动，大概两分钟。算数的。",
+     "reminder": "先安静，动的事可以等两分钟。",
+     "acting": "挑出手机上真正要做的那一件，做完，然后把手机翻过来放。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 26,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 7,
+   "title_zh": "道德經 第41章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-007",
+   "lines": [
+    "大器晚成"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "A vessel great, it is the slowest made.",
+     "plain": "You are older than the people around you who seem to have arrived, and the comparison stings.",
+     "story": "A potter shaping a small cup can finish it before lunch. A large vessel takes days: the clay has to be built up in stages and left to firm between them, or it collapses under its own weight. Laozi's phrase has become a proverb because the potter's fact is also a human one.\n\nAt thirty, or forty, or fifty, it is easy to look around and see people who seem finished: the title, the flat, the settled life. The sting of that comparison is real and the line does not argue with it. It offers a different reading of the same timeline. The thing still being built in you is large, and large things are slow because they have to be. Nothing about the pace is a verdict on the maker.\n\nThere is no promise in the line about when. There is only the observation that late is the normal timing for something of size. Write 晚, late, without haste. The clay firms while you wait.",
+     "reminder": "Large things are slow because they have to be.",
+     "acting": "Name the one large thing still being built in you, and do today's small layer of it.",
+     "translator": "Legge 1891 (verse rendering)"
+    },
+    "zh_hant": {
+     "translation": "大的器物，總是比較晚才完成。",
+     "plain": "你比身邊那些看起來已經到位的人年紀大，這種比較會刺人。",
+     "story": "陶匠做一個小杯子，午飯前就能做完。大的器物要好幾天：泥要一層一層往上堆，每一層都得等它變硬，不然會被自己的重量壓垮。老子這四個字變成了成語，因為陶匠的事實也是人的事實。\n\n三十歲、四十歲、五十歲，很容易看看四周，看見那些好像已經完成的人：頭銜、房子、安定的生活。這種比較的刺痛是真的，這一句沒有跟它爭。它給的是同一條時間線的另一種讀法。你身上還在建造的那樣東西是大的，大的東西慢，是因為它非慢不可。快慢，都不是對做的人的判決。\n\n這一句沒有承諾什麼時候。它只有一個觀察：晚，是有份量的東西正常的時間。寫「晚」這個字的時候，不用急。等的時候，泥正在變硬。",
+     "reminder": "大的東西慢，因為它非慢不可。",
+     "acting": "說出你身上還在建造的那一件大東西，然後做今天那薄薄的一層。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "大的器物，总是比较晚才完成。",
+     "plain": "你比身边那些看起来已经到位的人年纪大，这种比较会刺人。",
+     "story": "陶匠做一个小杯子，午饭前就能做完。大的器物要好几天：泥要一层一层往上堆，每一层都得等它变硬，不然会被自己的重量压垮。老子这四个字变成了成语，因为陶匠的事实也是人的事实。\n\n三十岁、四十岁、五十岁，很容易看看四周，看见那些好像已经完成的人：头衔、房子、安定的生活。这种比较的刺痛是真的，这一句没有跟它争。它给的是同一条时间线的另一种读法。你身上还在建造的那样东西是大的，大的东西慢，是因为它非慢不可。快慢，都不是对做的人的判决。\n\n这一句没有承诺什么时候。它只有一个观察：晚，是有份量的东西正常的时间。写「晚」这个字的时候，不用急。等的时候，泥正在变硬。",
+     "reminder": "大的东西慢，因为它非慢不可。",
+     "acting": "说出你身上还在建造的那一件大东西，然后做今天那薄薄的一层。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 41,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 8,
+   "title_zh": "道德經 第64章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-008",
+   "lines": [
+    "慎終如始"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "acting"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "If they were careful at the end, as (they should be) at the beginning, they would not so ruin them.",
+     "plain": "The project is nearly done and you are exhausted, and the last ten percent is where mistakes are creeping in.",
+     "story": "The same chapter that gives us the journey of a thousand li ends with a warning about the last few steps. People ruin things on the eve of success, Laozi says, because the care they had at the start has run out by the end.\n\nAnyone who has finished a long piece of work knows the feeling. The report is almost written, the renovation is almost complete, the year of saving is almost over, and the tiredness makes the last part sloppy. A typo in the final email. A corner cut on the last wall. A withdrawal from the savings a week before the goal. The line does not scold. It names a pattern and offers a simple correction: bring the beginning's attention to the end.\n\nThe practical form is small. Reread the last page as if it were the first. Walk the last wall with the same eyes as the first. Four characters, and the last one, 始, means beginning. The line ends by pointing back to where it started.",
+     "reminder": "Give the end the care you gave the start.",
+     "acting": "Check the last piece of the work with first-day eyes before you send it.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "到了最後，還像開始時那樣謹慎。",
+     "plain": "案子快做完了，你已經累壞，最後那一成正是錯誤悄悄跑進來的地方。",
+     "story": "給我們「千里之行」的那一章，結尾是一個關於最後幾步的提醒。老子說，人常在快成功的時候把事情弄壞，因為開頭時的小心，到結尾已經用完了。\n\n做過一件長工的人都知道那種感覺。報告快寫完了，裝修快好了，存錢的那一年快過完了，而疲倦讓最後那一段變得馬虎。最後一封信裡的錯字。最後一面牆偷的工。離目標還有一週時從存款裡提走的錢。這一句不責備。它指出一個模式，並給一個簡單的修正：把開頭的注意力帶到結尾。\n\n做法很小。把最後一頁當第一頁重讀。用看第一面牆的眼睛去看最後一面牆。四個字，最後一個字是「始」，開始。這一句的結尾，指回它的開頭。",
+     "reminder": "給結尾開頭那樣的小心。",
+     "acting": "送出去之前，用第一天的眼睛檢查最後那一段。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "到了最后，还像开始时那样谨慎。",
+     "plain": "案子快做完了，你已经累坏，最后那一成正是错误悄悄跑进来的地方。",
+     "story": "给我们「千里之行」的那一章，结尾是一个关于最后几步的提醒。老子说，人常在快成功的时候把事情弄坏，因为开头时的小心，到结尾已经用完了。\n\n做过一件长工的人都知道那种感觉。报告快写完了，装修快好了，存钱的那一年快过完了，而疲倦让最后那一段变得马虎。最后一封信里的错字。最后一面墙偷的工。离目标还有一周时从存款里提走的钱。这一句不责备。它指出一个模式，并给一个简单的修正：把开头的注意力带到结尾。\n\n做法很小。把最后一页当第一页重读。用看第一面墙的眼睛去看最后一面墙。四个字，最后一个字是「始」，开始。这一句的结尾，指回它的开头。",
+     "reminder": "给结尾开头那样的小心。",
+     "acting": "送出去之前，用第一天的眼睛检查最后那一段。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 64,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 9,
+   "title_zh": "道德經 第63章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-009",
+   "lines": [
+    "圖難於其易"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "acting"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "(The master of it) anticipates things that are difficult while they are easy.",
+     "plain": "A tax letter, a medical form, a conversation with your landlord: each one is small now and will not stay small.",
+     "story": "Laozi's advice here is almost administrative. Deal with the difficult thing while it is still easy. Deal with the great thing while it is still small. All difficult things, he says, began as easy ones that were left alone.\n\nThe letters that cause the most dread are the ones that have been on the table for three weeks. The tax question was a form; now it is a form plus a penalty plus a phone queue. The landlord's message was a reply; now it is a reply plus an apology plus a worry about the lease. None of this is a character flaw. It is how difficulty grows when it is given time. The line offers the counter-move: catch it in its easy form, when it is still one form, one reply, one call.\n\nToday's version is to pick the smallest of the things you have been avoiding, the one that is still easy, and do it before it changes size. The five characters begin with 圖, to plan. The planning is the easy part, and it is enough.",
+     "reminder": "Catch it while it is still one form, one call.",
+     "acting": "Open the letter that has waited longest and do its first easy step now.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "在還容易的時候，就處理困難的事。",
+     "plain": "一封稅務通知、一張醫院表格、一次跟房東的談話：每一件現在都小，但不會一直小。",
+     "story": "老子這裡的建議幾乎像在辦公。困難的事，趁它還容易時處理；大的事，趁它還小時處理。他說，所有困難的事，一開始都是被擱著的容易事。\n\n最讓人害怕的信，是在桌上放了三個星期的那幾封。稅務的問題本來是一張表；現在是一張表，加一筆罰款，加一段電話排隊。房東的訊息本來是一則回覆；現在是一則回覆，加一句抱歉，加一份對租約的擔心。這些都不是性格的缺點。這是困難被給了時間之後長大的方式。這一句給的是反著來的一步：趁它還是容易的樣子時抓住它，趁它還只是一張表、一則回覆、一通電話。\n\n今天的版本是：在你一直避開的事情裡，挑最小、還容易的那一件，在它變大之前做掉。五個字的開頭是「圖」，計畫。計畫是容易的部分，而且已經足夠。",
+     "reminder": "趁它還只是一張表、一通電話的時候接住它。",
+     "acting": "打開放最久的那封信，現在就做它第一個容易的步驟。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "在还容易的时候，就处理困难的事。",
+     "plain": "一封税务通知、一张医院表格、一次跟房东的谈话：每一件现在都小，但不会一直小。",
+     "story": "老子这里的建议几乎像在办公。困难的事，趁它还容易时处理；大的事，趁它还小时处理。他说，所有困难的事，一开始都是被搁着的容易事。\n\n最让人害怕的信，是在桌上放了三个星期的那几封。税务的问题本来是一张表；现在是一张表，加一笔罚款，加一段电话排队。房东的消息本来是一则回复；现在是一则回复，加一句抱歉，加一份对租约的担心。这些都不是性格的缺点。这是困难被给了时间之后长大的方式。这一句给的是反着来的一步：趁它还是容易的样子时抓住它，趁它还只是一张表、一则回复、一通电话。\n\n今天的版本是：在你一直避开的事情里，挑最小、还容易的那一件，在它变大之前做掉。五个字的开头是「图」，计划。计划是容易的部分，而且已经足够。",
+     "reminder": "趁它还只是一张表、一通电话的时候接住它。",
+     "acting": "打开放最久的那封信，现在就做它第一个容易的步骤。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 63,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 10,
+   "title_zh": "道德經 第51章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-010",
+   "lines": [
+    "為而不恃"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "acting"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "It carries them through their processes and does not vaunt its ability in doing so.",
+     "plain": "You did most of the work on something and someone else took the credit, and it is hard to keep doing the work.",
+     "story": "Laozi is describing the Tao itself here: it produces everything, carries everything through, and never claims possession or applause. Four characters of it, 為而不恃, come down to a working rule. Act, and do not lean on the act for reward.\n\nIt is a hard rule on the week when the credit went elsewhere. The presentation was yours, the late nights were yours, and the name on the email was someone else's. That is a real injustice and it may need a real conversation. The line is not about that conversation. It is about the next piece of work, and whether it can still be done well by someone who has stopped expecting the work to pay them back in recognition. Oddly, work done that way is lighter. It does not have to carry the extra weight of being noticed.\n\nWrite 為, to do, and then 不恃, without leaning. The doing is the whole of it.",
+     "reminder": "Do the work; let it stand without leaning on it.",
+     "acting": "Say plainly, once, what part of the work was yours, then get on with the next piece.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "做了，但不倚仗它。",
+     "plain": "一件事大部分是你做的，功勞被別人拿走了，很難再繼續做下去。",
+     "story": "老子這裡描述的是道本身：它生出一切，帶著一切走完過程，卻從不佔有、不討掌聲。其中四個字「為而不恃」，落到生活裡是一條工作的規矩。做，但不靠這件事來換回報。\n\n在功勞落到別人那裡的那一週，這條規矩很難。簡報是你的，熬夜是你的，信上的名字是別人的。這是真實的不公平，也許需要一次真實的談話。這一句說的不是那場談話。它說的是下一件工作，以及一個不再期待工作用被看見來償還他的人，還能不能把它做好。奇怪的是，這樣做的工作比較輕。它不必再多背一份被注意到的重量。\n\n寫「為」，做；再寫「不恃」，不倚仗。做，就是全部。",
+     "reminder": "把事做好，讓它自己站著，不去靠它。",
+     "acting": "把哪一部分是你做的，平實地說一次，然後繼續做下一件。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "做了，但不倚仗它。",
+     "plain": "一件事大部分是你做的，功劳被别人拿走了，很难再继续做下去。",
+     "story": "老子这里描述的是道本身：它生出一切，带着一切走完过程，却从不占有、不讨掌声。其中四个字「为而不恃」，落到生活里是一条工作的规矩。做，但不靠这件事来换回报。\n\n在功劳落到别人那里的那一周，这条规矩很难。演示文稿是你的，熬夜是你的，信上的名字是别人的。这是真实的不公平，也许需要一次真实的谈话。这一句说的不是那场谈话。它说的是下一件工作，以及一个不再期待工作用被看见来偿还他的人，还能不能把它做好。奇怪的是，这样做的工作比较轻。它不必再多背一份被注意到的重量。\n\n写「为」，做；再写「不恃」，不倚仗。做，就是全部。",
+     "reminder": "把事做好，让它自己站着，不去靠它。",
+     "acting": "把哪一部分是你做的，平实地说一次，然后继续做下一件。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 51,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 11,
+   "title_zh": "道德經 第33章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-011",
+   "lines": [
+    "知人者智自知者明"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "He who knows other men is discerning; he who knows himself is intelligent.",
+     "plain": "You can read everyone in the office, and still cannot say what you yourself want from the next year.",
+     "story": "Laozi ranks two kinds of knowing. Reading other people is clever; it gets a person through meetings and family dinners. Reading yourself is a different light altogether, the character 明, the sun and the moon side by side.\n\nMost of us are experts on other people by necessity. You know which colleague to approach before lunch and which parent to call after. That skill is real and it is tiring, because it points outward all day. The line turns the same attention inward for a moment. Not to judge, only to look: what is actually wanted from the next year, in plain terms, once the wants of everyone else are set to one side. Often the answer is smaller and more specific than expected. A quieter job. One friend seen more often. Sunday mornings kept free.\n\nEight characters, in two halves. Write the first half for everyone else. Write the second half for yourself, slower.",
+     "reminder": "Reading yourself is the brighter light.",
+     "acting": "Write one plain sentence about what you want from the next year, and keep it where you will see it.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "看得懂別人的人聰明，看得懂自己的人清明。",
+     "plain": "辦公室裡每個人你都看得透，卻說不出自己想從明年得到什麼。",
+     "story": "老子把兩種懂分了高低。看懂別人是聰明；它讓人撐過會議和家庭聚餐。看懂自己是另一種光，「明」這個字，太陽和月亮並排。\n\n我們多數人出於需要，都成了別人的專家。你知道哪個同事要在午飯前找，哪位長輩要在午飯後打。這種本事是真的，也很累，因為它整天朝外。這一句把同一份注意力轉向裡面一會兒。不是為了評斷，只是看：把其他所有人的想要先擱到一邊之後，明年到底想要什麼，用最平常的話說。答案常常比想像的小、也具體。一份安靜一點的工作。多見一個朋友。把星期天早上留下來。\n\n八個字，兩半。前一半為別人寫。後一半為自己寫，慢一點。",
+     "reminder": "看懂自己，是比較亮的那道光。",
+     "acting": "用一句平常的話寫下你想從明年得到什麼，放在看得到的地方。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "看得懂别人的人聪明，看得懂自己的人清明。",
+     "plain": "办公室里每个人你都看得透，却说不出自己想从明年得到什么。",
+     "story": "老子把两种懂分了高低。看懂别人是聪明；它让人撑过会议和家庭聚餐。看懂自己是另一种光，「明」这个字，太阳和月亮并排。\n\n我们多数人出于需要，都成了别人的专家。你知道哪个同事要在午饭前找，哪位长辈要在午饭后打。这种本事是真的，也很累，因为它整天朝外。这一句把同一份注意力转向里面一会儿。不是为了评断，只是看：把其他所有人的想要先搁到一边之后，明年到底想要什么，用最平常的话说。答案常常比想像的小、也具体。一份安静一点的工作。多见一个朋友。把星期天早上留下来。\n\n八个字，两半。前一半为别人写。后一半为自己写，慢一点。",
+     "reminder": "看懂自己，是比较亮的那道光。",
+     "acting": "用一句平常的话写下你想从明年得到什么，放在看得到的地方。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 33,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 12,
+   "title_zh": "道德經 第19章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-012",
+   "lines": [
+    "見素抱樸"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "contentment"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "But simple views, and courses plain and true.",
+     "plain": "Every feed and every shop window is selling an upgrade, and the version of your life without them looks shabby by comparison.",
+     "story": "素 is undyed silk. 樸 is wood before the carpenter. Laozi's advice is to look at the plain silk and hold the uncut wood: to keep close to things before they were improved.\n\nThe comparison economy runs on the opposite instruction. The phone is a year old and the advertisement makes it feel like a failing. The kitchen works and the renovation feed makes it look like a problem. None of that pressure is imaginary, and the line does not pretend the newer thing is worse. It only points at what is already in the room: the old phone that still calls your mother, the kitchen where dinner still gets made. Plain silk is still silk. Uncut wood is still wood, and it has all its options.\n\nWrite 素 and 樸 and look at how few strokes each needs. Then look up at one plain thing in the room that works.",
+     "reminder": "Plain silk is still silk.",
+     "acting": "Pick one thing you were going to upgrade this month, and give it another year on purpose.",
+     "translator": "Legge 1891 (verse rendering)"
+    },
+    "zh_hant": {
+     "translation": "看見未染的絲，抱住未雕的木。",
+     "plain": "每一個動態、每一扇櫥窗都在賣升級，相比之下，你沒有這些東西的生活看起來很寒酸。",
+     "story": "「素」是還沒染色的絲。「樸」是還沒經過木匠的木頭。老子的建議是看著素絲、抱著原木：貼近東西被改良以前的樣子。\n\n比較的經濟靠的是相反的指令。手機一歲了，廣告讓它像一種失敗。廚房好好的，裝修影片讓它像一個問題。這些壓力都不是幻覺，這一句也沒有假裝新的東西比較差。它只是指著房間裡已經有的：那支還能打給媽媽的舊手機，那間晚餐還是在裡面煮出來的廚房。素絲還是絲。原木還是木，而且所有的可能都還在。\n\n寫「素」和「樸」，看看每一個字需要的筆畫多麼少。然後抬頭，看房間裡一樣平平常常、卻還能用的東西。",
+     "reminder": "素絲，還是絲。",
+     "acting": "挑一樣這個月本來要換掉的東西，刻意再讓它用一年。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "看见未染的丝，抱住未雕的木。",
+     "plain": "每一个动态、每一扇橱窗都在卖升级，相比之下，你没有这些东西的生活看起来很寒酸。",
+     "story": "「素」是还没染色的丝。「朴」是还没经过木匠的木头。老子的建议是看着素丝、抱着原木：贴近东西被改良以前的样子。\n\n比较的经济靠的是相反的指令。手机一岁了，广告让它像一种失败。厨房好好的，装修视频让它像一个问题。这些压力都不是幻觉，这一句也没有假装新的东西比较差。它只是指着房间里已经有的：那支还能打给妈妈的旧手机，那间晚餐还是在里面煮出来的厨房。素丝还是丝。原木还是木，而且所有的可能都还在。\n\n写「素」和「朴」，看看每一个字需要的笔画多么少。然后擡头，看房间里一样平平常常、却还能用的东西。",
+     "reminder": "素丝，还是丝。",
+     "acting": "挑一样这个月本来要换掉的东西，刻意再让它用一年。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 19,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 13,
+   "title_zh": "道德經 第56章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-013",
+   "lines": [
+    "和其光同其塵"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "He will attemper his brightness, and bring himself into agreement with the obscurity (of others).",
+     "plain": "In a new job or a new city you feel either too much or invisible, and neither is comfortable.",
+     "story": "Soften the light, join the dust. Laozi's picture is of someone bright who chooses not to glare, and who does not mind standing in the same dust as everyone else. It is one of the kindest lines in the book.\n\nArriving somewhere new brings the two opposite discomforts at once. Some days you feel too visible, the new person whose every move is noticed. Other days you feel like dust, unseen in the corridor. The line accepts both and suggests a middle. Let the brightness be there, dimmed to a warmth that does not dazzle. Let the dust be there, and stand in it without shame, because everyone in the building is standing in it too. Belonging is built in small acts of that kind: lunch eaten with the others, a question asked instead of guessed at, a name remembered.\n\nSix characters. 光 is light and 塵 is dust; the line holds both in the same breath.",
+     "reminder": "Dim the light a little; stand in the same dust.",
+     "acting": "Eat lunch with the others once this week and ask one question you have been guessing at.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "調和自己的光，跟大家站在同樣的塵土裡。",
+     "plain": "到了新的公司或新的城市，你不是太顯眼就是像隱形的，兩種都不舒服。",
+     "story": "把光調柔，跟塵土在一起。老子畫的是一個明亮的人，選擇不刺眼，也不介意和所有人站在同一片塵土裡。這是整本書裡最溫柔的句子之一。\n\n到一個新地方，兩種相反的不舒服會一起來。有些日子你覺得自己太顯眼，新來的人，每個動作都被看著。另一些日子你覺得自己像灰塵，走廊上沒有人看見。這一句兩種都接受，然後提議一個中間。讓亮還在，調暗成一種不刺眼的暖。讓塵土也在，站在裡面不必羞愧，因為整棟樓的人都站在裡面。歸屬感是靠這種小動作蓋起來的：跟大家一起吃午飯，該問的問而不是猜，記住一個名字。\n\n六個字。「光」是光，「塵」是塵；這一句把兩樣放在同一口氣裡。",
+     "reminder": "把光調暗一點，站進同一片塵土。",
+     "acting": "這星期跟大家吃一次午飯，把一直在猜的那件事問出口。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "调和自己的光，跟大家站在同样的尘土里。",
+     "plain": "到了新的公司或新的城市，你不是太显眼就是像隐形的，两种都不舒服。",
+     "story": "把光调柔，跟尘土在一起。老子画的是一个明亮的人，选择不刺眼，也不介意和所有人站在同一片尘土里。这是整本书里最温柔的句子之一。\n\n到一个新地方，两种相反的不舒服会一起来。有些日子你觉得自己太显眼，新来的人，每个动作都被看着。另一些日子你觉得自己像灰尘，走廊上没有人看见。这一句两种都接受，然后提议一个中间。让亮还在，调暗成一种不刺眼的暖。让尘土也在，站在里面不必羞愧，因为整栋楼的人都站在里面。归属感是靠这种小动作盖起来的：跟大家一起吃午饭，该问的问而不是猜，记住一个名字。\n\n六个字。「光」是光，「尘」是尘；这一句把两样放在同一口气里。",
+     "reminder": "把光调暗一点，站进同一片尘土。",
+     "acting": "这星期跟大家吃一次午饭，把一直在猜的那件事问出口。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 56,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 14,
+   "title_zh": "莊子",
+   "title_en": "Zhuangzi",
+   "card_id": "zz-001",
+   "lines": [
+    "天地有大美而不言"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "contentment"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Heaven and earth have a great beauty, and say nothing of it.",
+     "plain": "There has been no time or money for anything beautiful in months: no trip, no concert, no new thing.",
+     "story": "Zhuangzi says that heaven and earth possess a great beauty and do not speak of it. The seasons keep their order without announcing it. The ten thousand things have their reasons and do not explain. The beauty is simply there, unadvertised.\n\nWhen money is short, beauty seems to belong to other people: the ones with flights, tickets, the new apartment with the view. That feeling is honest and the line does not dismiss it. It only points out where the largest beauty actually is. The sky over the bus stop is the same sky that is over the resort. The light at six in the evening reaches the window of the small flat at no charge. None of this pays the bill, and the line does not claim to. It claims something narrower: that the biggest beauty available was never for sale, and is not currently sold out.\n\nSeven characters. Write the last two, 不言, without a word, and then look out of a window.",
+     "reminder": "The largest beauty was never for sale.",
+     "acting": "Go to a window at the end of the day and give the sky one full minute.",
+     "translator": "draft (replace with Legge 1891, SBE XL, Knowledge Rambling in the North)"
+    },
+    "zh_hant": {
+     "translation": "天地有大美，卻不說。",
+     "plain": "好幾個月沒有時間也沒有錢去碰任何美的東西：沒有旅行，沒有演出，沒有新的東西。",
+     "story": "莊子說，天地有大美而不言。四季有自己的秩序，不宣佈。萬物各有道理，不解釋。美就在那裡，不打廣告。\n\n錢緊的時候，美好像是別人的：有機票的人，有門票的人，有那間看得到風景的新房子的人。這種感覺是誠實的，這一句沒有把它打發掉。它只是指出最大的那份美到底在哪裡。公車站上方的天空，和度假村上方的是同一片。傍晚六點的光照進小套房的窗戶，不收費。這些都付不了帳單，這一句也沒有這樣說。它說的窄一點：能得到的最大的美，從來不曾出售，現在也沒有賣完。\n\n七個字。最後兩個「不言」，不說一句話地寫，然後看向一扇窗。",
+     "reminder": "最大的那份美，從來不曾出售。",
+     "acting": "一天結束時走到窗邊，給天空完整的一分鐘。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "天地有大美，却不说。",
+     "plain": "好几个月没有时间也没有钱去碰任何美的东西：没有旅行，没有演出，没有新的东西。",
+     "story": "庄子说，天地有大美而不言。四季有自己的秩序，不宣布。万物各有道理，不解释。美就在那里，不打广告。\n\n钱紧的时候，美好像是别人的：有机票的人，有门票的人，有那间看得到风景的新房子的人。这种感觉是诚实的，这一句没有把它打发掉。它只是指出最大的那份美到底在哪里。公车站上方的天空，和度假村上方的是同一片。傍晚六点的光照进小套房的窗户，不收费。这些都付不了帐单，这一句也没有这样说。它说的窄一点：能得到的最大的美，从来不曾出售，现在也没有卖完。\n\n七个字。最后两个「不言」，不说一句话地写，然后看向一扇窗。",
+     "reminder": "最大的那份美，从来不曾出售。",
+     "acting": "一天结束时走到窗边，给天空完整的一分钟。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "莊子",
+    "text_name_en": "Zhuangzi",
+    "chapter": null,
+    "source_edition": "莊子·知北遊; English: draft rendering pending Legge 1891 (SBE XL) wording",
+    "source_url": "https://zh.wikisource.org/wiki/莊子/知北遊"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 15,
+   "title_zh": "道德經 第16章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-014",
+   "lines": [
+    "致虛極守靜篤"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The (state of) vacancy should be brought to the utmost degree, and that of stillness guarded with unwearying vigour.",
+     "plain": "You lie down at night and the day keeps running: the unpaid invoice, the thing you said in the meeting, tomorrow's list.",
+     "story": "This is the sitting instruction of the Tao Te Ching. Empty out as far as it goes; hold still and keep holding. Laozi then describes what can be seen from that stillness: everything busy returning, in time, to its root, the way leaves do.\n\nAt eleven at night the mind is not empty. It is a room with the television on in every corner: the invoice, the meeting, the list. The line is not an order to switch them all off, because that order never works. It is a description of a direction. Toward empty. Toward still. Each breath out is a small step that way, and there is no point at which it has to be finished. The invoice will be there in the morning, unchanged, and can be handled then.\n\nThe six characters make two commands of three. Write 致虛極, then 守靜篤, and rest between them for one breath.",
+     "reminder": "Toward empty, toward still, one breath at a time.",
+     "acting": "Write tomorrow's first task on paper so the night does not have to hold it.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "虛到極處，靜得篤定。",
+     "plain": "夜裡躺下，白天還在跑：那張沒付的請款單、會議上說的那句話、明天的清單。",
+     "story": "這是道德經裡的靜坐指令。空，空到底；守住靜，一直守著。老子接著描述從那份靜裡看得見的東西：所有忙碌的事物，到時候都回到自己的根，像葉子那樣。\n\n晚上十一點，腦子不是空的。它是一個每個角落都開著電視的房間：請款單、會議、清單。這一句不是要你把它們全部關掉的命令，因為那種命令從來沒有用。它描述的是一個方向。往空。往靜。每一次吐氣都是往那邊的一小步，而且沒有哪一個點是非到不可的。請款單早上還會在，一樣的，那時再處理。\n\n六個字是兩句三字的指令。寫「致虛極」，再寫「守靜篤」，中間停一口氣。",
+     "reminder": "往空，往靜，一次一口氣。",
+     "acting": "把明天第一件事寫在紙上，讓夜晚不必替你記著。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "虚到极处，静得笃定。",
+     "plain": "夜里躺下，白天还在跑：那张没付的请款单、会议上说的那句话、明天的清单。",
+     "story": "这是道德经里的静坐指令。空，空到底；守住静，一直守着。老子接着描述从那份静里看得见的东西：所有忙碌的事物，到时候都回到自己的根，像叶子那样。\n\n晚上十一点，脑子不是空的。它是一个每个角落都开着电视的房间：请款单、会议、清单。这一句不是要你把它们全部关掉的命令，因为那种命令从来没有用。它描述的是一个方向。往空。往静。每一次吐气都是往那边的一小步，而且没有哪一个点是非到不可的。请款单早上还会在，一样的，那时再处理。\n\n六个字是两句三字的指令。写「致虚极」，再写「守静笃」，中间停一口气。",
+     "reminder": "往空，往静，一次一口气。",
+     "acting": "把明天第一件事写在纸上，让夜晚不必替你记着。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 16,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 16,
+   "title_zh": "六祖壇經",
+   "title_en": "Platform Sutra",
+   "card_id": "ps-001",
+   "lines": [
+    "直心是道場"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "A straight heart is the place of practice.",
+     "plain": "You have been managing everyone's feelings at work for so long that you have stopped saying anything plainly.",
+     "story": "Huineng quotes an older sutra: the straight heart is the place of practice. Not the temple, not the cushion, not the retreat that costs a month's salary. The place where practice happens is wherever a person says what is so, without a bend in it.\n\nManaging a room is a skill, and the tax on it is that every sentence gets shaped before it leaves. After enough years the shaping becomes automatic and the plain version of anything is hard to find. The line does not ask for bluntness. A straight heart can be kind. It asks for one sentence a day that is not pre-shaped: to the colleague, to the parent, to yourself in the mirror. That sentence is the practice, and it needs no room booked.\n\nFive characters. 直, straight, is a single vertical stroke through the middle of the character. Write it as one clean line.",
+     "reminder": "One plain sentence a day is the whole practice.",
+     "acting": "Say the plain version of one thing today, to one person, without shaping it first.",
+     "translator": "draft (Wong 1930 pending)"
+    },
+    "zh_hant": {
+     "translation": "直的心，就是修行的地方。",
+     "plain": "你在公司裡照顧每個人的情緒太久了，久到你已經不會把話直接說出來。",
+     "story": "惠能引用一部更早的經：直心是道場。不是寺廟，不是蒲團，不是那個要花一個月薪水的閉關。修行發生的地方，是一個人把事情如實說出來、不帶彎的地方。\n\n照顧一整個房間是一種本事，它的代價是每一句話出口前都被修過。年頭夠久，修飾變成自動的，任何事情最平直的版本都很難找到。這一句不是要人直白得傷人。直的心可以是溫柔的。它要的是一天一句沒有先修過的話：對同事，對父母，對鏡子裡的自己。那一句話就是修行，不需要訂任何房間。\n\n五個字。「直」的中間是一豎。把它寫成一條乾淨的線。",
+     "reminder": "一天一句平直的話，就是全部的修行。",
+     "acting": "今天把一件事最平直的版本說給一個人聽，不先修飾。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "直的心，就是修行的地方。",
+     "plain": "你在公司里照顾每个人的情绪太久了，久到你已经不会把话直接说出来。",
+     "story": "惠能引用一部更早的经：直心是道场。不是寺庙，不是蒲团，不是那个要花一个月薪水的闭关。修行发生的地方，是一个人把事情如实说出来、不带弯的地方。\n\n照顾一整个房间是一种本事，它的代价是每一句话出口前都被修过。年头够久，修饰变成自动的，任何事情最平直的版本都很难找到。这一句不是要人直白得伤人。直的心可以是温柔的。它要的是一天一句没有先修过的话：对同事，对父母，对镜子里的自己。那一句话就是修行，不需要订任何房间。\n\n五个字。「直」的中间是一竖。把它写成一条干净的线。",
+     "reminder": "一天一句平直的话，就是全部的修行。",
+     "acting": "今天把一件事最平直的版本说给一个人听，不先修饰。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "六祖壇經",
+    "text_name_en": "Platform Sutra",
+    "chapter": null,
+    "source_edition": "宗寶本; English: draft rendering, Wong Mou-lam 1930 pending",
+    "source_url": "https://zh.wikisource.org/wiki/六祖壇經"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 17,
+   "title_zh": "莊子",
+   "title_en": "Zhuangzi",
+   "card_id": "zz-002",
+   "lines": [
+    "安時而處順"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "letting_go"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Be at peace with the time, and dwell in what follows.",
+     "plain": "A contract ended, a parent got older, a season of life closed before you were ready for it.",
+     "story": "The line comes from a scene of mourning. A friend of the old master Laozi arrives at the funeral, cries three times, and leaves. Asked why so briefly, he says that the master came when it was time to come and went when it was time to go. To be at peace with the time and to dwell in what follows is how grief stays grief without becoming a second wound.\n\nEndings arrive on their own schedule: the contract that was not renewed, the parent who now needs help on the stairs, the year that closed a door. Each one is a real loss and the line does not shrink it. It offers a posture for standing in it. This is the time it is. This is what follows. Both can be inhabited, and inhabiting them is different from fighting them, and takes less out of you.\n\nThe character 順 means to go along with, the way a river goes along with its bed. Write it last and let the pen follow the strokes rather than lead them.",
+     "reminder": "This is the time it is; live in what follows.",
+     "acting": "Do the one practical thing the ending asks of you this week: the call, the form, the visit.",
+     "translator": "draft (replace with Legge 1891, SBE XXXIX, Nourishing the Lord of Life)"
+    },
+    "zh_hant": {
+     "translation": "安於此時，順著接下來的路住下。",
+     "plain": "一份約到期了，父母老了，人生的一個季節在你準備好之前就關上了。",
+     "story": "這一句出自一個弔喪的場景。老聃的一位朋友來到靈前，哭了三聲就走。有人問他為什麼這麼短，他說，老師該來的時候來，該走的時候走。安於此時、順著接下來的路住下，讓悲傷還是悲傷，不變成第二道傷。\n\n結束按自己的時間表來：沒有續的約，現在上樓梯需要人扶的父母，關上一扇門的那一年。每一個都是真實的失去，這一句沒有把它縮小。它給的是站在裡面的姿勢。現在就是這個時候。接下來就是接下來。兩者都能住進去，而住進去和跟它打，是不一樣的，也比較不耗人。\n\n「順」這個字的意思是跟著走，像河跟著河床。把它留到最後寫，讓筆順著筆畫走，而不是帶著它走。",
+     "reminder": "現在就是這個時候；住進接下來的路。",
+     "acting": "這星期做結束要求你做的那一件實際的事：那通電話、那張表、那次探望。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "安于此时，顺着接下来的路住下。",
+     "plain": "一份约到期了，父母老了，人生的一个季节在你准备好之前就关上了。",
+     "story": "这一句出自一个吊丧的场景。老聃的一位朋友来到灵前，哭了三声就走。有人问他为什么这么短，他说，老师该来的时候来，该走的时候走。安于此时、顺着接下来的路住下，让悲伤还是悲伤，不变成第二道伤。\n\n结束按自己的时间表来：没有续的约，现在上楼梯需要人扶的父母，关上一扇门的那一年。每一个都是真实的失去，这一句没有把它缩小。它给的是站在里面的姿势。现在就是这个时候。接下来就是接下来。两者都能住进去，而住进去和跟它打，是不一样的，也比较不耗人。\n\n「顺」这个字的意思是跟着走，像河跟着河床。把它留到最后写，让笔顺着笔画走，而不是带着它走。",
+     "reminder": "现在就是这个时候；住进接下来的路。",
+     "acting": "这星期做结束要求你做的那一件实际的事：那通电话、那张表、那次探望。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "莊子",
+    "text_name_en": "Zhuangzi",
+    "chapter": null,
+    "source_edition": "莊子·養生主; English: draft rendering pending Legge 1891 (SBE XXXIX) wording",
+    "source_url": "https://zh.wikisource.org/wiki/莊子/養生主"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 18,
+   "title_zh": "禪語",
+   "title_en": "Zen saying",
+   "card_id": "zen-001",
+   "lines": [
+    "平常心是道"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "contentment"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The ordinary mind is the way.",
+     "plain": "Every app and every course promises a better version of you, and the ordinary version feels like a failure.",
+     "story": "Zhaozhou asked his teacher Nanquan what the way was, and Nanquan answered: the ordinary mind. Not a special state, not an achievement after years of effort. The mind that boils the water and answers the door.\n\nThe improvement industry depends on the ordinary self being a problem. Every course is a ladder out of it. The line takes the ladder away and says the ground was the destination. That is not permission to stop growing; Zhaozhou himself lived to a hundred and twenty and never stopped asking. It is permission to stop treating the version of you that makes breakfast as a draft. The way is not somewhere the ordinary mind goes. It is what the ordinary mind is, when nobody is selling it anything.\n\nFive characters, and the first two, 平常, mean level and usual. Write them level.",
+     "reminder": "The ordinary mind is not a draft.",
+     "acting": "Do one ordinary task today with full attention, and let it count as the practice.",
+     "translator": "draft"
+    },
+    "zh_hant": {
+     "translation": "平常的心，就是道。",
+     "plain": "每一個程式、每一門課都承諾一個更好的你，平常的那個你，像一場失敗。",
+     "story": "趙州問老師南泉，什麼是道。南泉答：平常心。不是特別的狀態，不是多年努力之後的成就。是燒水、應門的那顆心。\n\n自我改善這門生意，靠的是把平常的自己當成問題。每一門課都是爬出去的梯子。這一句把梯子拿走，說地面就是目的地。這不是不再成長的許可；趙州自己活到一百二十歲，從沒停止發問。它是一種許可：不再把那個做早餐的你當成草稿。道不是平常心要去的地方。道是平常心本來的樣子，在沒有人向它推銷任何東西的時候。\n\n五個字，前兩個「平常」，平的、常的。把它們寫平。",
+     "reminder": "平常的心，不是草稿。",
+     "acting": "今天全神做一件平常的事，讓它算作修行。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "平常的心，就是道。",
+     "plain": "每一个程序、每一门课都承诺一个更好的你，平常的那个你，像一场失败。",
+     "story": "赵州问老师南泉，什么是道。南泉答：平常心。不是特别的状态，不是多年努力之后的成就。是烧水、应门的那颗心。\n\n自我改善这门生意，靠的是把平常的自己当成问题。每一门课都是爬出去的梯子。这一句把梯子拿走，说地面就是目的地。这不是不再成长的许可；赵州自己活到一百二十岁，从没停止发问。它是一种许可：不再把那个做早餐的你当成草稿。道不是平常心要去的地方。道是平常心本来的样子，在没有人向它推销任何东西的时候。\n\n五个字，前两个「平常」，平的、常的。把它们写平。",
+     "reminder": "平常的心，不是草稿。",
+     "acting": "今天全神做一件平常的事，让它算作修行。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "禪語",
+    "text_name_en": "Zen saying",
+    "chapter": null,
+    "source_edition": "Classical Chan record; English: draft rendering",
+    "source_url": "https://zh.wikisource.org/"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 19,
+   "title_zh": "金剛經 第10章",
+   "title_en": "Diamond Sutra",
+   "card_id": "ds-001",
+   "lines": [
+    "應無所住而生其心"
+   ],
+   "sensitivity": "negation",
+   "tags": [
+    "letting_go"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "There ought to be cultivated a condition of complete independence of mind.",
+     "plain": "You cannot stop turning over the thing your manager said on Tuesday, and it is now Saturday.",
+     "story": "This is the line that woke Huineng when he heard it read in a market. The mind should arise without settling anywhere: fully engaged, parked nowhere. Gemmell's Edwardian English calls it independence of mind, which is close enough to be useful.\n\nA remark from Tuesday that is still turning on Saturday has become a place the mind has settled. The remark was real and may have been unfair; the line does not argue with that. It points at the settling. A mind that arises fresh can hear the remark, decide whether it needs an answer, give the answer on Monday, and then be somewhere else. It is not suppression. It is the difference between a bird that lands on a branch and a bird that builds a nest there.\n\nEight characters. The middle two, 所住, mean a dwelling place. Write them and then leave them behind.",
+     "reminder": "Land on the branch; do not build the nest.",
+     "acting": "Decide whether Tuesday's remark needs an answer, write the answer if so, and send it Monday.",
+     "translator": "Gemmell 1912"
+    },
+    "zh_hant": {
+     "translation": "心不停留在任何地方，卻活生生地生起。",
+     "plain": "主管星期二說的那句話，你到現在還在翻，而今天已經是星期六。",
+     "story": "這是惠能在市集聽人誦讀時被喚醒的那一句。心應該生起，卻不停在任何地方：全然投入，哪裡也不停靠。\n\n星期二的一句話到星期六還在翻，是因為它變成了心停下來的地方。那句話是真的，也許不公平；這一句沒有跟這件事爭。它指的是「停」。一顆新生起的心可以聽見那句話，決定它需不需要回答，星期一給出回答，然後在別的地方。這不是壓抑。這是停在樹枝上的鳥和在樹枝上築巢的鳥的差別。\n\n八個字。中間兩個「所住」，意思是住的地方。把它們寫下來，然後離開。",
+     "reminder": "停在樹枝上；不要築巢。",
+     "acting": "決定星期二那句話需不需要回應，需要就寫下來，星期一送出。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "心不停留在任何地方，却活生生地生起。",
+     "plain": "主管星期二说的那句话，你到现在还在翻，而今天已经是星期六。",
+     "story": "这是惠能在市集听人诵读时被唤醒的那一句。心应该生起，却不停在任何地方：全然投入，哪里也不停靠。\n\n星期二的一句话到星期六还在翻，是因为它变成了心停下来的地方。那句话是真的，也许不公平；这一句没有跟这件事争。它指的是「停」。一颗新生起的心可以听见那句话，决定它需不需要回答，星期一给出回答，然后在别的地方。这不是压抑。这是停在树枝上的鸟和在树枝上筑巢的鸟的差别。\n\n八个字。中间两个「所住」，意思是住的地方。把它们写下来，然后离开。",
+     "reminder": "停在树枝上；不要筑巢。",
+     "acting": "决定星期二那句话需不需要回应，需要就写下来，星期一送出。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "金剛經",
+    "text_name_en": "Diamond Sutra",
+    "chapter": 10,
+    "source_edition": "鳩摩羅什譯; English: Gemmell, The Diamond Sutra, Kegan Paul, London, 1912",
+    "source_url": "https://zh.wikisource.org/wiki/金剛般若波羅蜜經_(鳩摩羅什)"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 20,
+   "title_zh": "禪語",
+   "title_en": "Zen saying",
+   "card_id": "zen-002",
+   "lines": [
+    "日日是好日"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "contentment"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Every day is a good day.",
+     "plain": "This week had a rejection, a broken appliance and a bad night, and 'good day' is not a phrase that fits.",
+     "story": "Yunmen said to his monks: I am not asking about the days before the fifteenth. Say something about the days after. Nobody answered, so he answered for them: every day is a good day.\n\nRead quickly, the line sounds like a fridge magnet, and in a week with a rejection and a repair bill it sounds like a lie. Yunmen was not saying that every day is pleasant. He was refusing to sort days into good and bad at all. The rejection happened. The washing machine broke. Those are events, not verdicts on the day, and a day that carried them is still whole. 好 in the line means complete as much as it means pleasant. The day is good the way a bowl is good: it holds what was put in it.\n\nFive characters, and 日 appears twice. Write both the same size. No day is bigger than another.",
+     "reminder": "The day holds what was put in it; that is its goodness.",
+     "acting": "Deal with the one broken thing that is most urgent, and let the day be whole around it.",
+     "translator": "draft"
+    },
+    "zh_hant": {
+     "translation": "每一天，都是好日子。",
+     "plain": "這星期有一次被拒絕、一台壞掉的家電、一個睡不好的夜，「好日子」這個詞完全不合。",
+     "story": "雲門對僧眾說：十五日以前的日子我不問你們。十五日以後的，說一句來聽。沒有人答，他自己替大家答：日日是好日。\n\n讀得快，這一句像冰箱磁鐵；在有拒絕和修理費的一週，它像謊話。雲門不是說每一天都愉快。他是根本拒絕把日子分成好和壞。拒絕發生了。洗衣機壞了。那些是事件，不是對這一天的判決，一個裝著這些事的日子仍然是完整的。這一句裡的「好」，「完整」的意思不少於「愉快」。日子好，像碗好：它裝得住放進去的東西。\n\n五個字，「日」出現兩次。兩個寫一樣大。沒有哪一天比另一天大。",
+     "reminder": "日子裝得住放進去的東西；那就是它的好。",
+     "acting": "處理壞掉的事情裡最急的那一件，讓這一天在它周圍保持完整。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "每一天，都是好日子。",
+     "plain": "这星期有一次被拒绝、一台坏掉的家电、一个睡不好的夜，「好日子」这个词完全不合。",
+     "story": "云门对僧众说：十五日以前的日子我不问你们。十五日以后的，说一句来听。没有人答，他自己替大家答：日日是好日。\n\n读得快，这一句像冰箱磁铁；在有拒绝和修理费的一周，它像谎话。云门不是说每一天都愉快。他是根本拒绝把日子分成好和坏。拒绝发生了。洗衣机坏了。那些是事件，不是对这一天的判决，一个装着这些事的日子仍然是完整的。这一句里的「好」，「完整」的意思不少于「愉快」。日子好，像碗好：它装得住放进去的东西。\n\n五个字，「日」出现两次。两个写一样大。没有哪一天比另一天大。",
+     "reminder": "日子装得住放进去的东西；那就是它的好。",
+     "acting": "处理坏掉的事情里最急的那一件，让这一天在它周围保持完整。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "禪語",
+    "text_name_en": "Zen saying",
+    "chapter": null,
+    "source_edition": "Classical Chan record; English: draft rendering",
+    "source_url": "https://zh.wikisource.org/"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 21,
+   "title_zh": "道德經 第58章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-015",
+   "lines": [
+    "禍兮福之所倚"
+   ],
+   "sensitivity": "impermanence",
+   "tags": [
+    "impermanence"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Happiness is to be found by its side.",
+     "plain": "The bad news came all at once: a lost client, a broken appliance, a bill you did not expect.",
+     "story": "Laozi's line is often quoted as consolation and it is stranger than that. Misfortune is what fortune leans on; fortune is where misfortune hides. He is not predicting a happy ending. He is saying that the two are never found apart, and that nobody can see where either will end.\n\nA week when everything breaks at once does not feel like it is leaning on anything. The lost client is lost money. The washing machine is a real hole in the month. The line is not asking you to be grateful for any of it. It is asking for a smaller thing: to stop treating the bad week as the final shape of things. The client who left makes room for one who pays on time. The repair reveals what the landlord is actually responsible for. Nobody knows yet, and not knowing is exactly what the line is about.\n\nSix characters. 禍 and 福 share a radical, the one for altar or sign. Even in the writing they are relatives.",
+     "reminder": "The bad week is not the final shape.",
+     "acting": "Handle the two most urgent of the broken things today and leave the rest for tomorrow's list.",
+     "translator": "Legge 1891 (fragment)"
+    },
+    "zh_hant": {
+     "translation": "禍裡靠著福；福裡藏著禍。",
+     "plain": "壞消息一次全來：丟了一個客戶，家電壞了，一張沒有預期的帳單。",
+     "story": "老子這一句常被拿來安慰人，其實它比安慰奇怪。禍是福倚靠的地方；福是禍藏身的地方。他沒有預言一個好結局。他說的是兩者從來不分開，而且沒有人看得見它們各自會走到哪裡。\n\n所有東西同時壞掉的那一週，一點也不像靠著什麼。走掉的客戶就是少掉的錢。洗衣機壞了，這個月就真的破了一個洞。這一句沒有要你為任何一件感恩。它要的比較小：不要再把這個壞的星期當成事情最後的形狀。離開的客戶，讓出位子給一個準時付款的。那次修理，讓房東該負責的部分現了形。沒有人現在就知道，而「不知道」正是這一句在說的事。\n\n六個字。「禍」和「福」共用一個部首，示，祭壇與徵兆。連在字形裡，它們都是親戚。",
+     "reminder": "壞的這一週，不是最後的形狀。",
+     "acting": "今天處理壞掉的事情裡最急的兩件，其餘留給明天的清單。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "祸里靠着福；福里藏着祸。",
+     "plain": "坏消息一次全来：丢了一个客户，家电坏了，一张没有预期的帐单。",
+     "story": "老子这一句常被拿来安慰人，其实它比安慰奇怪。祸是福倚靠的地方；福是祸藏身的地方。他没有预言一个好结局。他说的是两者从来不分开，而且没有人看得见它们各自会走到哪里。\n\n所有东西同时坏掉的那一周，一点也不像靠着什么。走掉的客户就是少掉的钱。洗衣机坏了，这个月就真的破了一个洞。这一句没有要你为任何一件感恩。它要的比较小：不要再把这个坏的星期当成事情最后的形状。离开的客户，让出位子给一个准时付款的。那次修理，让房东该负责的部分现了形。没有人现在就知道，而「不知道」正是这一句在说的事。\n\n六个字。「祸」和「福」共用一个部首，示，祭坛与征兆。连在字形里，它们都是亲戚。",
+     "reminder": "坏的这一周，不是最后的形状。",
+     "acting": "今天处理坏掉的事情里最急的两件，其余留给明天的清单。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 58,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 22,
+   "title_zh": "六祖壇經",
+   "title_en": "Platform Sutra",
+   "card_id": "ps-002",
+   "lines": [
+    "本來無一物"
+   ],
+   "sensitivity": "negation",
+   "tags": [
+    "letting_go"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Originally there is not a single thing.",
+     "plain": "You carry a list of things to fix in yourself, and the list never gets shorter.",
+     "story": "Huineng's verse answered another monk's. The other monk had written that the mind is a mirror that must be wiped constantly so no dust settles. Huineng wrote back: originally there is not a single thing; where could dust settle? The abbot gave him the robe that night.\n\nThe verse is not saying that the person's troubles are unreal. The debt is real, the tiredness is real. It is saying something about the list of self-repairs: the mirror that has to be wiped, the flaws to be polished out before life can begin. Huineng's answer is that the mirror was never the thing. There is no backlog of dust to clear before you count. The rent still needs handling; that is a task, not a stain on you. The list of stains can be set down, and it turns out most of it was never yours to carry.\n\nFive characters. Write 無 slowly; it is the heaviest stroke count in the line, for the lightest word.",
+     "reminder": "There was never a backlog of dust to clear.",
+     "acting": "Handle one real task from the week, and cross one imaginary flaw off the list for good.",
+     "translator": "draft (Wong 1930 pending)"
+    },
+    "zh_hant": {
+     "translation": "本來就沒有任何一樣東西。",
+     "plain": "你背著一張「應該修好自己」的清單，清單從來沒有變短。",
+     "story": "惠能的偈回答另一位僧人的偈。那位僧人寫，心像一面鏡子，要時時擦拭，別讓塵埃落上去。惠能回：本來無一物，何處惹塵埃。當晚，五祖把衣缽傳給了他。\n\n這首偈不是說人的困難不存在。債是真的，累是真的。它說的是那張自我修理的清單：那面必須一直擦的鏡子，那些要先磨掉、人生才能開始的缺點。惠能的回答是，鏡子從來就不是重點。沒有一堆積欠的塵埃要先清掉，你才算數。房租還是要處理；那是一件事，不是你身上的污點。那張污點清單可以放著，而且大半從來就不該由你來背。\n\n五個字。「無」慢慢寫；它是整句筆畫最多的字，寫的卻是最輕的意思。",
+     "reminder": "從來沒有一堆積欠的塵埃要先清。",
+     "acting": "處理這星期一件真實的事，然後把一個想像出來的缺點從清單上永遠劃掉。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "本来就没有任何一样东西。",
+     "plain": "你背着一张「应该修好自己」的清单，清单从来没有变短。",
+     "story": "惠能的偈回答另一位僧人的偈。那位僧人写，心像一面镜子，要时时擦拭，别让尘埃落上去。惠能回：本来无一物，何处惹尘埃。当晚，五祖把衣钵传给了他。\n\n这首偈不是说人的困难不存在。债是真的，累是真的。它说的是那张自我修理的清单：那面必须一直擦的镜子，那些要先磨掉、人生才能开始的缺点。惠能的回答是，镜子从来就不是重点。没有一堆积欠的尘埃要先清掉，你才算数。房租还是要处理；那是一件事，不是你身上的污点。那张污点清单可以放着，而且大半从来就不该由你来背。\n\n五个字。「无」慢慢写；它是整句笔画最多的字，写的却是最轻的意思。",
+     "reminder": "从来没有一堆积欠的尘埃要先清。",
+     "acting": "处理这星期一件真实的事，然后把一个想像出来的缺点从清单上永远划掉。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "六祖壇經",
+    "text_name_en": "Platform Sutra",
+    "chapter": null,
+    "source_edition": "宗寶本; English: draft rendering, Wong Mou-lam 1930 pending",
+    "source_url": "https://zh.wikisource.org/wiki/六祖壇經"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 23,
+   "title_zh": "道德經 第44章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-016",
+   "lines": [
+    "知足不辱知止不殆"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "contentment"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Who is content Needs fear no shame. Who knows to stop Incurs no blame.",
+     "plain": "The rent takes half of what you earn, and the word 'enough' has nothing to do with your situation.",
+     "story": "Start from the rent. Half the salary goes to it, another quarter to food and transport, and what is left is not a cushion. A line about knowing what is enough can sound, from there, like advice from someone with a bigger flat. Laozi's chapter is actually about the opposite person: the one who already has fame and stores and is asking which to give up.\n\nSo read the line narrowly. Knowing what is enough is not the same as having enough. It is a boundary drawn around what is being chased on top of the necessities: the second job that eats every evening, the upgrade taken on credit, the comparison that never closes. Knowing where to stop protects the person from the exhaustion that those extra chases produce. The rent is still too high. That is a fact about the city, and the line has nothing to say against the city.\n\nEight characters in two matched halves. Write 知 twice and notice it is the same knowing.",
+     "reminder": "Enough is a boundary, not a bank balance.",
+     "acting": "Name one chase that is not a necessity, and take it off this month's list.",
+     "translator": "Legge 1891 (verse rendering)"
+    },
+    "zh_hant": {
+     "translation": "知道什麼是足夠，就不受辱；知道在哪裡停，就不會有危險。",
+     "plain": "房租吃掉你收入的一半，「足夠」這個詞跟你的處境一點關係也沒有。",
+     "story": "從房租開始。薪水一半給它，另外四分之一給吃和交通，剩下的不是什麼緩衝。從這裡讀一句關於「知足」的話，會像是一個住大房子的人給的建議。老子這一章其實是在寫相反的那種人：已經有名聲、有積蓄，正在問該放掉哪一樣的人。\n\n所以把這一句讀窄一點。知道什麼是足夠，不等於已經足夠。它是在必需品之外、那些被追著的東西周圍畫一條界線：吃掉每個晚上的第二份工，刷卡換的升級，永遠關不掉的比較。知道在哪裡停，保護的是人，不被那些多出來的追逐耗盡。房租還是太高。那是關於這座城市的事實，這一句對這座城市沒有任何意見。\n\n八個字，對稱的兩半。「知」寫兩次，注意那是同一種知道。",
+     "reminder": "足夠是一條界線，不是一個餘額。",
+     "acting": "說出一件不是必需的追逐，把它從這個月的清單上拿掉。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "知道什么是足够，就不受辱；知道在哪里停，就不会有危险。",
+     "plain": "房租吃掉你收入的一半，「足够」这个词跟你的处境一点关系也没有。",
+     "story": "从房租开始。薪水一半给它，另外四分之一给吃和交通，剩下的不是什么缓冲。从这里读一句关于「知足」的话，会像是一个住大房子的人给的建议。老子这一章其实是在写相反的那种人：已经有名声、有积蓄，正在问该放掉哪一样的人。\n\n所以把这一句读窄一点。知道什么是足够，不等于已经足够。它是在必需品之外、那些被追着的东西周围画一条界线：吃掉每个晚上的第二份工，刷卡换的升级，永远关不掉的比较。知道在哪里停，保护的是人，不被那些多出来的追逐耗尽。房租还是太高。那是关于这座城市的事实，这一句对这座城市没有任何意见。\n\n八个字，对称的两半。「知」写两次，注意那是同一种知道。",
+     "reminder": "足够是一条界线，不是一个余额。",
+     "acting": "说出一件不是必需的追逐，把它从这个月的清单上拿掉。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 44,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 24,
+   "title_zh": "禪語",
+   "title_en": "Zen saying",
+   "card_id": "zen-003",
+   "lines": [
+    "飢來吃飯困來眠"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "When hungry, eat; when tired, sleep.",
+     "plain": "You eat at the desk, sleep with the phone, and cannot remember the last time either was done properly.",
+     "story": "A visitor asked the master Dazhu how he practised. He said: when hungry I eat, when tired I sleep. The visitor objected that everyone does that. Dazhu said no: when others eat they are thinking of a hundred things, and when they sleep they are turning over a thousand.\n\nThe line is the simplest instruction in the pack and among the hardest to follow. Lunch at the desk with the inbox open is eating while thinking of a hundred things. Bed with the phone is sleeping while turning over a thousand. Nothing about a hard month makes that necessary; it is only habit, and habits can be interrupted one meal at a time. Eat the meal. Then sleep the sleep. The hundred things will be there afterwards, and easier to face fed and rested.\n\nSeven characters, in two matched halves. Write the first half before lunch and the second before bed.",
+     "reminder": "Eat the meal; sleep the sleep; the rest can wait.",
+     "acting": "Eat one meal today away from every screen, and go to bed without the phone.",
+     "translator": "draft"
+    },
+    "zh_hant": {
+     "translation": "餓了就吃飯，累了就睡覺。",
+     "plain": "你在桌前吃飯，抱著手機睡，已經想不起上一次好好吃、好好睡是什麼時候。",
+     "story": "有人問大珠慧海怎麼用功。他說：飢來吃飯，困來眠。來人反駁，每個人都這樣。大珠說不一樣：別人吃飯的時候想著一百件事，睡覺的時候翻著一千件。\n\n這一句是整組裡最簡單的指令，也是最難做到的之一。開著信箱在桌前吃午餐，就是想著一百件事在吃。抱著手機上床，就是翻著一千件事在睡。困難的月份沒有哪一點使這成為必要；那只是習慣，而習慣可以一餐一餐地打斷。吃這一頓。然後睡這一覺。那一百件事之後還在，而吃飽睡足的人比較有辦法面對。\n\n七個字，對稱的兩半。前一半午飯前寫，後一半睡前寫。",
+     "reminder": "吃這一頓；睡這一覺；其餘的可以等。",
+     "acting": "今天離開所有螢幕吃一頓飯，不帶手機上床。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "饿了就吃饭，累了就睡觉。",
+     "plain": "你在桌前吃饭，抱着手机睡，已经想不起上一次好好吃、好好睡是什么时候。",
+     "story": "有人问大珠慧海怎么用功。他说：饥来吃饭，困来眠。来人反驳，每个人都这样。大珠说不一样：别人吃饭的时候想着一百件事，睡觉的时候翻着一千件。\n\n这一句是整组里最简单的指令，也是最难做到的之一。开着信箱在桌前吃午餐，就是想着一百件事在吃。抱着手机上床，就是翻着一千件事在睡。困难的月份没有哪一点使这成为必要；那只是习惯，而习惯可以一餐一餐地打断。吃这一顿。然后睡这一觉。那一百件事之后还在，而吃饱睡足的人比较有办法面对。\n\n七个字，对称的两半。前一半午饭前写，后一半睡前写。",
+     "reminder": "吃这一顿；睡这一觉；其余的可以等。",
+     "acting": "今天离开所有屏幕吃一顿饭，不带手机上床。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "禪語",
+    "text_name_en": "Zen saying",
+    "chapter": null,
+    "source_edition": "Classical Chan record; English: draft rendering",
+    "source_url": "https://zh.wikisource.org/"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 25,
+   "title_zh": "心經",
+   "title_en": "Heart Sutra",
+   "card_id": "hs-001",
+   "lines": [
+    "色不異空空不異色"
+   ],
+   "sensitivity": "negation",
+   "tags": [
+    "impermanence"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Form is not other than emptiness; emptiness is not other than form.",
+     "plain": "Someone told you the stress is 'all in your head', and it made the rent feel no lighter.",
+     "story": "The Heart Sutra's most quoted line is a guardrail. Form is not separate from emptiness, it says, and then, at once, emptiness is not separate from form. Neither half is allowed to run off on its own.\n\nThe second half is the one for a hard month. 'It is all in your head' is emptiness let off the leash: it turns a real bill into a state of mind and leaves the bill unpaid. The sutra refuses that move. Emptiness is not other than form; the rent has its full weight and its full due date. What emptiness adds is that the weight is not the whole story of you, and that the situation, like every situation, is in motion. Both halves at once. Pay the rent, and know that the person paying it is larger than the rent.\n\nEight characters that fold back on themselves. Write the line and read it backwards; it says the same thing.",
+     "reminder": "The bill is real, and it is not the whole of you.",
+     "acting": "Pay or schedule the real thing today, and let nobody tell you it was in your head.",
+     "translator": "founder (draft)"
+    },
+    "zh_hant": {
+     "translation": "有形的不異於空，空也不異於有形的。",
+     "plain": "有人跟你說壓力「都是你想出來的」，房租並沒有因此變輕。",
+     "story": "心經被引用最多的一句，是一道護欄。色不異空，它說，然後立刻接著，空不異色。兩半都不准自己跑掉。\n\n後一半是給艱難月份的。「都是你想出來的」，是脫了鏈的空：它把一張真實的帳單變成一種心情，帳單沒有付。心經拒絕這個動作。空不異色；房租有它全部的重量，和全部的到期日。空加上的是：那份重量不是關於你的全部故事，而這個處境，像每一個處境一樣，在動。兩半一起。付房租，也知道付的人比房租大。\n\n八個字，摺回自己。把這一句寫下來，再倒著讀；它說的是同一件事。",
+     "reminder": "帳單是真的，而它不是你的全部。",
+     "acting": "今天付掉或安排好那件真實的事，不讓任何人說它是你想出來的。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "有形的不异于空，空也不异于有形的。",
+     "plain": "有人跟你说压力「都是你想出来的」，房租并没有因此变轻。",
+     "story": "心经被引用最多的一句，是一道护栏。色不异空，它说，然后立刻接着，空不异色。两半都不准自己跑掉。\n\n后一半是给艰难月份的。「都是你想出来的」，是脱了链的空：它把一张真实的帐单变成一种心情，帐单没有付。心经拒绝这个动作。空不异色；房租有它全部的重量，和全部的到期日。空加上的是：那份重量不是关于你的全部故事，而这个处境，像每一个处境一样，在动。两半一起。付房租，也知道付的人比房租大。\n\n八个字，折回自己。把这一句写下来，再倒着读；它说的是同一件事。",
+     "reminder": "帐单是真的，而它不是你的全部。",
+     "acting": "今天付掉或安排好那件真实的事，不让任何人说它是你想出来的。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "心經",
+    "text_name_en": "Heart Sutra",
+    "chapter": null,
+    "source_edition": "玄奘譯（大正藏 T0251）; English: founder's rendering",
+    "source_url": "https://zh.wikisource.org/wiki/般若波羅蜜多心經_(玄奘)"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 26,
+   "title_zh": "禪語",
+   "title_en": "Zen saying",
+   "card_id": "zen-004",
+   "lines": [
+    "春有百花秋有月"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "contentment"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Spring has its hundred flowers, autumn its moon.",
+     "plain": "Every season of the year has a bill attached, and you have stopped noticing that the seasons come with anything else.",
+     "story": "Wumen's verse continues: summer has its cool wind, winter its snow. If nothing idle hangs on the mind, that is the good season for a person. The verse is famous, and the first line is the whole of it: the flowers arrive without being ordered.\n\nA year seen through bills has four seasons of expense: tax, school, holidays, heating. That is a true reading and an exhausting one. The verse offers a second reading that does not cancel the first. The same year also delivers, on schedule, things that cost nothing: the flowering tree by the bus stop, the moon over the car park. They come with or without the bills, and noticing them is not denial of the bills. It is refusing to let the bills be the only calendar.\n\nSeven characters. Write 花, flower, and 月, moon, with a little extra care. They are the two things in the line that are free.",
+     "reminder": "The flowers arrive without being ordered.",
+     "acting": "Look at one thing this season delivered for free, and give it a full minute.",
+     "translator": "draft"
+    },
+    "zh_hant": {
+     "translation": "春天有百花，秋天有月亮。",
+     "plain": "一年每一個季節都附著一張帳單，你已經不記得季節還會帶來別的東西。",
+     "story": "無門的偈接下去說：夏有涼風冬有雪。若無閒事掛心頭，便是人間好時節。這首偈很有名，而第一句就是全部：花不用訂，自己會來。\n\n從帳單看一年，有四個花錢的季節：稅、學費、假期、暖氣。這種讀法是真的，也很耗人。這首偈給第二種讀法，不取消第一種。同一年也按時送來不用錢的東西：公車站旁那棵開花的樹，停車場上方的月亮。有帳單沒帳單它們都來，注意到它們不是否認帳單。是拒絕讓帳單當唯一的日曆。\n\n七個字。「花」和「月」多花一點心寫。它們是這一句裡不用錢的兩樣東西。",
+     "reminder": "花不用訂，自己會來。",
+     "acting": "看一樣這個季節免費送來的東西，給它完整的一分鐘。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "春天有百花，秋天有月亮。",
+     "plain": "一年每一个季节都附着一张帐单，你已经不记得季节还会带来别的东西。",
+     "story": "无门的偈接下去说：夏有凉风冬有雪。若无闲事挂心头，便是人间好时节。这首偈很有名，而第一句就是全部：花不用订，自己会来。\n\n从帐单看一年，有四个花钱的季节：税、学费、假期、暖气。这种读法是真的，也很耗人。这首偈给第二种读法，不取消第一种。同一年也按时送来不用钱的东西：公车站旁那棵开花的树，停车场上方的月亮。有帐单没帐单它们都来，注意到它们不是否认帐单。是拒绝让帐单当唯一的日历。\n\n七个字。「花」和「月」多花一点心写。它们是这一句里不用钱的两样东西。",
+     "reminder": "花不用订，自己会来。",
+     "acting": "看一样这个季节免费送来的东西，给它完整的一分钟。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "禪語",
+    "text_name_en": "Zen saying",
+    "chapter": null,
+    "source_edition": "Classical Chan record; English: draft rendering",
+    "source_url": "https://zh.wikisource.org/"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 27,
+   "title_zh": "道德經 第22章",
+   "title_en": "Tao Te Ching",
+   "card_id": "ddj-017",
+   "lines": [
+    "少則得"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "contentment"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "He whose (desires) are few gets them; he whose (desires) are many goes astray.",
+     "plain": "There are eleven things on the list for this month and money and hours for about three of them.",
+     "story": "Start from the list. Eleven items, three of them affordable, and every one of them reasonable. Laozi's three characters are not a comment on ambition. They are arithmetic. Few, and it can be had. Many, and the person is pulled in too many directions to arrive anywhere.\n\nThis is the month the line was written for. The savings target, the course, the dentist, the visit home, the new shoes, the repair, the gift. Held all at once they cancel each other, and the month ends with none of them done and the sense of having failed at eleven things. Choose three. Say out loud which three. The other eight are not cancelled; they are moved to a month that has room for them. What is gained is that three things actually happen, which is more than most months manage.\n\nThree characters. It is the shortest line in the pack, on purpose.",
+     "reminder": "Few, and it can be had.",
+     "acting": "Cut this month's list to three and move the rest, by name, to next month.",
+     "translator": "Legge 1891"
+    },
+    "zh_hant": {
+     "translation": "少，反而得到。",
+     "plain": "這個月的清單上有十一件事，錢和時間大概夠三件。",
+     "story": "從清單開始。十一件，付得起三件，每一件都合理。老子這三個字不是對企圖心的評論。它是算術。少，就拿得到。多，人就被拉往太多方向，哪裡都到不了。\n\n這一句就是為這樣的月份寫的。存錢目標、課程、牙醫、回家、新鞋、修理、禮物。同時抓在手裡，它們互相抵銷，月底一件也沒做成，還多了一種在十一件事上都失敗的感覺。選三件。大聲說出是哪三件。其他八件沒有被取消；它們被移到一個裝得下它們的月份。得到的是，三件事真的發生了，這已經比大多數月份做到的多。\n\n三個字。這是整組卡片裡最短的一句，故意的。",
+     "reminder": "少，就拿得到。",
+     "acting": "把這個月的清單砍到三件，其餘的一件一件寫名字，移到下個月。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "少，反而得到。",
+     "plain": "这个月的清单上有十一件事，钱和时间大概够三件。",
+     "story": "从清单开始。十一件，付得起三件，每一件都合理。老子这三个字不是对企图心的评论。它是算术。少，就拿得到。多，人就被拉往太多方向，哪里都到不了。\n\n这一句就是为这样的月份写的。存钱目标、课程、牙医、回家、新鞋、修理、礼物。同时抓在手里，它们互相抵销，月底一件也没做成，还多了一种在十一件事上都失败的感觉。选三件。大声说出是哪三件。其他八件没有被取消；它们被移到一个装得下它们的月份。得到的是，三件事真的发生了，这已经比大多数月份做到的多。\n\n三个字。这是整组卡片里最短的一句，故意的。",
+     "reminder": "少，就拿得到。",
+     "acting": "把这个月的清单砍到三件，其余的一件一件写名字，移到下个月。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "道德經",
+    "text_name_en": "Tao Te Ching",
+    "chapter": 22,
+    "source_edition": "王弼本; English: Legge 1891",
+    "source_url": ""
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 28,
+   "title_zh": "六祖壇經",
+   "title_en": "Platform Sutra",
+   "card_id": "ps-003",
+   "lines": [
+    "不思善不思惡"
+   ],
+   "sensitivity": "negation",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Think neither of good nor of evil.",
+     "plain": "At three in the morning you replay the argument, sorting every sentence into who was right.",
+     "story": "A monk chased Huineng to take the robe from him, then found he could not lift it and asked instead to be taught. Huineng said: at this moment, think neither of good nor of evil. What is your original face? The monk understood, and wept.\n\nThe instruction is not a moral holiday. It is aimed at a specific machine, the one that runs at three in the morning sorting an argument into right and wrong, sentence by sentence, and never finishes. Huineng's question stops the machine by asking what is there before the sorting. Not who was right; what is here, now, in the dark. A breath. A tired body. The argument is not resolved by this, and it may still need resolving in daylight. But the night is not the place, and the sorting was never going to end on its own.\n\nSix characters, two halves, each beginning with 不. Write the two 不 as the same firm stop.",
+     "reminder": "Before the sorting, what is here?",
+     "acting": "Write the one thing you actually need to say to the other person, and say it in daylight.",
+     "translator": "draft (Wong 1930 pending)"
+    },
+    "zh_hant": {
+     "translation": "不去想好，也不去想壞。",
+     "plain": "凌晨三點，你把那場爭執重播，把每一句話分成誰對誰錯。",
+     "story": "一位僧人追上惠能想奪回衣缽，發現自己提不動，改口求法。惠能說：此刻，不思善，不思惡。你的本來面目是什麼？那僧人明白了，哭了。\n\n這個指令不是道德放假。它針對一台特定的機器，凌晨三點運轉的那一台，把一場爭執一句一句分成對錯，永遠分不完。惠能的問題讓機器停下，方法是問：在分之前，那裡有什麼。不是誰對；是此刻，在黑暗裡，這裡有什麼。一口氣。一個累的身體。爭執沒有因此解決，也許白天仍然需要解決。但夜裡不是地方，而那場分類本來就不會自己結束。\n\n六個字，兩半，各以「不」開頭。兩個「不」寫成同樣穩的一個停。",
+     "reminder": "在分對錯之前，這裡有什麼？",
+     "acting": "寫下你真正需要對那個人說的一句話，白天再說。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "不去想好，也不去想坏。",
+     "plain": "凌晨三点，你把那场争执重播，把每一句话分成谁对谁错。",
+     "story": "一位僧人追上惠能想夺回衣钵，发现自己提不动，改口求法。惠能说：此刻，不思善，不思恶。你的本来面目是什么？那僧人明白了，哭了。\n\n这个指令不是道德放假。它针对一台特定的机器，凌晨三点运转的那一台，把一场争执一句一句分成对错，永远分不完。惠能的问题让机器停下，方法是问：在分之前，那里有什么。不是谁对；是此刻，在黑暗里，这里有什么。一口气。一个累的身体。争执没有因此解决，也许白天仍然需要解决。但夜里不是地方，而那场分类本来就不会自己结束。\n\n六个字，两半，各以「不」开头。两个「不」写成同样稳的一个停。",
+     "reminder": "在分对错之前，这里有什么？",
+     "acting": "写下你真正需要对那个人说的一句话，白天再说。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "六祖壇經",
+    "text_name_en": "Platform Sutra",
+    "chapter": null,
+    "source_edition": "宗寶本; English: draft rendering, Wong Mou-lam 1930 pending",
+    "source_url": "https://zh.wikisource.org/wiki/六祖壇經"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 29,
+   "title_zh": "金剛經 第5章",
+   "title_en": "Diamond Sutra",
+   "card_id": "ds-002",
+   "lines": [
+    "凡所有相皆是虛妄"
+   ],
+   "sensitivity": "negation",
+   "tags": [
+    "impermanence"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Every form or quality of phenomena is transient and illusive.",
+     "plain": "Everyone else's life on the screen looks finished and yours looks like a draft.",
+     "story": "The Buddha asks whether he can be recognised by his bodily marks, and answers his own question: every mark is a passing appearance. Gemmell renders it as transient and illusive, which keeps both halves of the Chinese, empty and false.\n\nNothing on a screen is a lie exactly. The holiday happened; the promotion is real. What is false is the appearance of completion: a life edited into a set of finished marks, with the unfinished parts outside the frame. The line is not asking anyone to believe their neighbours are unhappy. It is pointing out that the marks were never the person, on either side of the screen. Your unedited life is not a draft of a finished thing; it is the thing, seen without the crop.\n\nEight characters. The last two, 虛妄, are the line's whole verdict on appearances. Write them without heaviness; they are only saying what a photo is.",
+     "reminder": "The marks were never the person.",
+     "acting": "Close the feed and do one unphotographed thing that is actually yours today.",
+     "translator": "Gemmell 1912"
+    },
+    "zh_hant": {
+     "translation": "一切能看見的相，都是暫時的、不真的。",
+     "plain": "螢幕上每個人的生活都像完成品，你的像草稿。",
+     "story": "佛問，能不能靠身相認出他，然後自己回答：一切的相都是暫時的顯現。\n\n螢幕上的東西不完全是謊言。那趟旅行發生過；那次升遷是真的。假的是「完成」的樣子：一段被剪成一組完成的相的人生，沒完成的部分都在框外。這一句不是要人相信鄰居都不快樂。它指出：相從來就不是那個人，螢幕的哪一邊都一樣。你沒有剪過的生活不是某個完成品的草稿；它就是那樣東西本身，只是沒有裁切。\n\n八個字。最後兩個「虛妄」，是這一句對「相」的全部判決。不必寫得沉重；它只是在說一張照片是什麼。",
+     "reminder": "相從來就不是那個人。",
+     "acting": "關掉動態，今天做一件不會被拍下來、真正屬於你的事。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "一切能看见的相，都是暂时的、不真的。",
+     "plain": "屏幕上每个人的生活都像完成品，你的像草稿。",
+     "story": "佛问，能不能靠身相认出他，然后自己回答：一切的相都是暂时的显现。\n\n屏幕上的东西不完全是谎言。那趟旅行发生过；那次升迁是真的。假的是「完成」的样子：一段被剪成一组完成的相的人生，没完成的部分都在框外。这一句不是要人相信邻居都不快乐。它指出：相从来就不是那个人，屏幕的哪一边都一样。你没有剪过的生活不是某个完成品的草稿；它就是那样东西本身，只是没有裁切。\n\n八个字。最后两个「虚妄」，是这一句对「相」的全部判决。不必写得沉重；它只是在说一张照片是什么。",
+     "reminder": "相从来就不是那个人。",
+     "acting": "关掉动态，今天做一件不会被拍下来、真正属于你的事。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "金剛經",
+    "text_name_en": "Diamond Sutra",
+    "chapter": 5,
+    "source_edition": "鳩摩羅什譯; English: Gemmell, The Diamond Sutra, Kegan Paul, London, 1912",
+    "source_url": "https://zh.wikisource.org/wiki/金剛般若波羅蜜經_(鳩摩羅什)"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 30,
+   "title_zh": "禪語",
+   "title_en": "Zen saying",
+   "card_id": "zen-005",
+   "lines": [
+    "雲在青天水在瓶"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Clouds in the blue sky, water in the jar.",
+     "plain": "You keep trying to be the person you were five years ago, before the job, the child, the city, and it does not fit.",
+     "story": "The governor Li Ao asked the master Yaoshan what the way was. Yaoshan pointed up, then pointed at a water jar, and said: clouds in the blue sky, water in the jar. Li Ao wrote a poem about it and became a student.\n\nThe same water is cloud in the sky and still in the jar, and it is not less itself in either. The line is gentle with a person who no longer recognises their own shape. The one who could stay out until two and take a job on a whim was cloud. The one who gets up at six for a child and keeps a job for its insurance is water in the jar. Nothing was lost in the pouring; the form changed because the container did, and containers change again. Being the jar's shape now is not a failure to be the cloud.\n\nSeven characters. 雲 and 水 sit at the two ends of the line; write them as the same thing in two places.",
+     "reminder": "Same water, different container.",
+     "acting": "Name one thing the jar-shaped life lets you do that the cloud could not, and do it today.",
+     "translator": "draft"
+    },
+    "zh_hant": {
+     "translation": "雲在藍天上，水在瓶子裡。",
+     "plain": "你一直想當回五年前那個人，工作、孩子、這座城市之前的那個，但已經不合身。",
+     "story": "刺史李翱問藥山禪師什麼是道。藥山指指天，再指指一個水瓶，說：雲在青天水在瓶。李翱寫了一首詩，成了他的學生。\n\n同樣的水，在天上是雲，在瓶裡是靜的，兩種都不減少它自己。這一句對一個認不出自己形狀的人很溫柔。那個可以待到凌晨兩點、一時興起就換工作的人，是雲。那個為了孩子六點起床、為了保險把工作留住的人，是瓶裡的水。倒的時候什麼都沒有失去；形狀變了，是因為容器變了，而容器還會再變。現在是瓶子的形狀，不是「沒能當雲」的失敗。\n\n七個字。「雲」和「水」在這一句的兩端；把它們寫成同一樣東西在兩個地方。",
+     "reminder": "同樣的水，不同的容器。",
+     "acting": "說出一件瓶子形狀的生活讓你做得到、雲做不到的事，今天做它。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "云在蓝天上，水在瓶子里。",
+     "plain": "你一直想当回五年前那个人，工作、孩子、这座城市之前的那个，但已经不合身。",
+     "story": "刺史李翱问药山禅师什么是道。药山指指天，再指指一个水瓶，说：云在青天水在瓶。李翱写了一首诗，成了他的学生。\n\n同样的水，在天上是云，在瓶里是静的，两种都不减少它自己。这一句对一个认不出自己形状的人很温柔。那个可以待到凌晨两点、一时兴起就换工作的人，是云。那个为了孩子六点起床、为了保险把工作留住的人，是瓶里的水。倒的时候什么都没有失去；形状变了，是因为容器变了，而容器还会再变。现在是瓶子的形状，不是「没能当云」的失败。\n\n七个字。「云」和「水」在这一句的两端；把它们写成同一样东西在两个地方。",
+     "reminder": "同样的水，不同的容器。",
+     "acting": "说出一件瓶子形状的生活让你做得到、云做不到的事，今天做它。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "禪語",
+    "text_name_en": "Zen saying",
+    "chapter": null,
+    "source_edition": "Classical Chan record; English: draft rendering",
+    "source_url": "https://zh.wikisource.org/"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 31,
+   "title_zh": "莊子",
+   "title_en": "Zhuangzi",
+   "card_id": "zz-003",
+   "lines": [
+    "無用之用"
+   ],
+   "sensitivity": "negation",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The use of the useless.",
+     "plain": "You spent a Sunday drawing, or walking, or fixing an old radio, and felt guilty because none of it earned anything.",
+     "story": "Zhuangzi tells of a tree so gnarled that no carpenter would look at it. Because it was useless for planks, it was never cut down, and it grew until a whole village could rest in its shade. Everyone knows the use of the useful, he says. Nobody knows the use of the useless.\n\nA Sunday spent on something that earns nothing can feel, in a tight month, like a small theft from yourself. The guilt is understandable, because the month really is tight, and the line does not argue with the month. It argues with the accounting. The walk that produced nothing is what made Monday bearable. The radio that will never be worth anything is the reason your hands know how to be patient. These uses do not appear on any statement, and they are the shade the gnarled tree gives.\n\nFour characters, and two of them are the same 用, use. The line uses the word against itself.",
+     "reminder": "The useless hour is the shade you rest in.",
+     "acting": "Keep one useless hour on this week's calendar and write it in like an appointment.",
+     "translator": "draft (replace with Legge 1891, SBE XXXIX, Man in the World)"
+    },
+    "zh_hant": {
+     "translation": "沒有用的東西，有它的用處。",
+     "plain": "你花了一個星期天畫畫、散步、或修一台舊收音機，然後覺得愧疚，因為這些都賺不到錢。",
+     "story": "莊子講一棵長得歪七扭八的樹，沒有一個木匠看得上。正因為它做不成木板，從來沒有人砍它，它一直長，長到整個村子都能在它的樹蔭下歇息。他說，人人都知道有用的用處，沒有人知道沒有用的用處。\n\n一個花在賺不到錢的事情上的星期天，在錢緊的月份裡，會像是從自己身上偷了一點什麼。這種愧疚可以理解，因為這個月真的緊，這一句也沒有跟這個月爭。它爭的是記帳的方式。那一趟什麼也沒產出的散步，是讓星期一撐得過去的原因。那台永遠不值錢的收音機，是你的手學會耐心的原因。這些用處不會出現在任何對帳單上，它們就是那棵歪樹給的樹蔭。\n\n四個字，其中兩個都是「用」。這一句用這個字反過來對付它自己。",
+     "reminder": "沒有用的那一小時，是你歇息的樹蔭。",
+     "acting": "在這星期的行事曆上留一個沒有用的小時，像約會一樣寫進去。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "没有用的东西，有它的用处。",
+     "plain": "你花了一个星期天画画、散步、或修一台旧收音机，然后觉得愧疚，因为这些都赚不到钱。",
+     "story": "庄子讲一棵长得歪七扭八的树，没有一个木匠看得上。正因为它做不成木板，从来没有人砍它，它一直长，长到整个村子都能在它的树荫下歇息。他说，人人都知道有用的用处，没有人知道没有用的用处。\n\n一个花在赚不到钱的事情上的星期天，在钱紧的月份里，会像是从自己身上偷了一点什么。这种愧疚可以理解，因为这个月真的紧，这一句也没有跟这个月争。它争的是记帐的方式。那一趟什么也没产出的散步，是让星期一撑得过去的原因。那台永远不值钱的收音机，是你的手学会耐心的原因。这些用处不会出现在任何对帐单上，它们就是那棵歪树给的树荫。\n\n四个字，其中两个都是「用」。这一句用这个字反过来对付它自己。",
+     "reminder": "没有用的那一小时，是你歇息的树荫。",
+     "acting": "在这星期的日历上留一个没有用的小时，像约会一样写进去。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "莊子",
+    "text_name_en": "Zhuangzi",
+    "chapter": null,
+    "source_edition": "莊子·人間世; English: draft rendering pending Legge 1891 (SBE XXXIX) wording",
+    "source_url": "https://zh.wikisource.org/wiki/莊子/人間世"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 32,
+   "title_zh": "六祖壇經",
+   "title_en": "Platform Sutra",
+   "card_id": "ps-004",
+   "lines": [
+    "一燈能除千年暗"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "acting"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "One lamp can dispel a thousand years of darkness.",
+     "plain": "The problem has been there so long, the debt, the estrangement, the habit, that it feels older than you.",
+     "story": "Huineng says a single lamp can end a thousand years of darkness, and a single insight a thousand years of confusion. The darkness has no seniority. It does not get harder to remove because it has been there longer.\n\nOld problems carry a special weight. A debt that has been rolling for six years, a silence with a brother that started at a funeral, a habit older than the marriage. The age of the thing feels like evidence that it cannot change. The line disagrees on a point of physics: darkness is not a substance that accumulates. It is the absence of one lamp. The lamp is small. One payment plan set up. One message sent. One evening without the habit. None of these are the whole answer, and each is the whole lamp.\n\nSeven characters, and the first is 一, one. Write it first and alone, and then the rest.",
+     "reminder": "Darkness has no seniority.",
+     "acting": "Light the one lamp: send the message, set up the plan, or leave the habit out once, today.",
+     "translator": "draft (Wong 1930 pending)"
+    },
+    "zh_hant": {
+     "translation": "一盞燈，就能驅散千年的黑暗。",
+     "plain": "那個問題存在太久了，債、疏遠、習慣，久到好像比你還老。",
+     "story": "惠能說，一燈能除千年暗，一智能滅萬年愚。黑暗沒有資歷。它不會因為存在得久，就更難除掉。\n\n老問題有一種特別的重量。滾了六年的債，從一場喪禮開始的和兄弟的沉默，比婚姻還老的習慣。東西的年紀像是它改不了的證據。這一句在一個物理問題上不同意：黑暗不是會累積的物質。它是缺了一盞燈。燈很小。一份還款計畫設好了。一則訊息送出了。一個沒有那個習慣的晚上。這些都不是全部的答案，而每一個都是整盞燈。\n\n七個字，第一個是「一」。先單獨寫它，再寫其餘的。",
+     "reminder": "黑暗沒有資歷。",
+     "acting": "點那一盞燈：送出那則訊息、設好那份計畫、或今天少做一次那個習慣。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "一盏灯，就能驱散千年的黑暗。",
+     "plain": "那个问题存在太久了，债、疏远、习惯，久到好像比你还老。",
+     "story": "惠能说，一灯能除千年暗，一智能灭万年愚。黑暗没有资历。它不会因为存在得久，就更难除掉。\n\n老问题有一种特别的重量。滚了六年的债，从一场丧礼开始的和兄弟的沉默，比婚姻还老的习惯。东西的年纪像是它改不了的证据。这一句在一个物理问题上不同意：黑暗不是会累积的物质。它是缺了一盏灯。灯很小。一份还款计划设好了。一则消息送出了。一个没有那个习惯的晚上。这些都不是全部的答案，而每一个都是整盏灯。\n\n七个字，第一个是「一」。先单独写它，再写其余的。",
+     "reminder": "黑暗没有资历。",
+     "acting": "点那一盏灯：送出那则消息、设好那份计划、或今天少做一次那个习惯。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "六祖壇經",
+    "text_name_en": "Platform Sutra",
+    "chapter": null,
+    "source_edition": "宗寶本; English: draft rendering, Wong Mou-lam 1930 pending",
+    "source_url": "https://zh.wikisource.org/wiki/六祖壇經"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 33,
+   "title_zh": "金剛經 第18章",
+   "title_en": "Diamond Sutra",
+   "card_id": "ds-003",
+   "lines": [
+    "過去心不可得"
+   ],
+   "sensitivity": "negation",
+   "tags": [
+    "letting_go"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Modes of thought, whether relating to the past, the present, or the future, are alike unreal and illusory.",
+     "plain": "The decision you made two years ago, the job you turned down, the flat you sold, plays on repeat.",
+     "story": "The Buddha says the past mind cannot be grasped, nor the present, nor the future. Gemmell folds the three into one sentence. The Chinese gives each its own line, and this card takes the first: the past mind cannot be held.\n\nRegret is an attempt to hold the past mind: to stand again in the room where the decision was made and choose differently. The room is gone, and the person who chose in it had only what they knew then. That is not a consolation prize; it is simply the geometry. What can be held is the present decision, which is usually smaller and less dramatic than the old one: the next application, the next month's budget, the next conversation. The old decision closes only when the new one is made.\n\nSix characters. 不可得, cannot be obtained, is the sutra's refrain. Write it plainly, as a fact about time rather than a loss.",
+     "reminder": "The room where you chose is gone; the next room is here.",
+     "acting": "Make one present decision today that the old decision was blocking.",
+     "translator": "Gemmell 1912"
+    },
+    "zh_hant": {
+     "translation": "過去的心，抓不到。",
+     "plain": "兩年前的那個決定，推掉的工作、賣掉的房子，一直重播。",
+     "story": "佛說，過去心不可得，現在心不可得，未來心不可得。這張卡取第一句：過去的心，抓不住。\n\n後悔是抓住過去的心的嘗試：再站進做決定的那個房間，選另一邊。那個房間已經沒有了，在裡面選的那個人，只有他那時知道的東西。這不是安慰獎；這只是幾何。抓得住的是現在的決定，它通常比舊的那個小、也沒那麼戲劇：下一份申請，下一個月的預算，下一次談話。舊決定只在新決定做出來的時候才會關上。\n\n六個字。「不可得」是這部經的疊句。平實地寫，把它當一個關於時間的事實，不是一個損失。",
+     "reminder": "你選擇的那個房間沒有了；下一個房間在這裡。",
+     "acting": "今天做一個被舊決定擋住的、現在的決定。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "过去的心，抓不到。",
+     "plain": "两年前的那个决定，推掉的工作、卖掉的房子，一直重播。",
+     "story": "佛说，过去心不可得，现在心不可得，未来心不可得。这张卡取第一句：过去的心，抓不住。\n\n后悔是抓住过去的心的尝试：再站进做决定的那个房间，选另一边。那个房间已经没有了，在里面选的那个人，只有他那时知道的东西。这不是安慰奖；这只是几何。抓得住的是现在的决定，它通常比旧的那个小、也没那么戏剧：下一份申请，下一个月的预算，下一次谈话。旧决定只在新决定做出来的时候才会关上。\n\n六个字。「不可得」是这部经的叠句。平实地写，把它当一个关于时间的事实，不是一个损失。",
+     "reminder": "你选择的那个房间没有了；下一个房间在这里。",
+     "acting": "今天做一个被旧决定挡住的、现在的决定。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "金剛經",
+    "text_name_en": "Diamond Sutra",
+    "chapter": 18,
+    "source_edition": "鳩摩羅什譯; English: Gemmell, The Diamond Sutra, Kegan Paul, London, 1912",
+    "source_url": "https://zh.wikisource.org/wiki/金剛般若波羅蜜經_(鳩摩羅什)"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 34,
+   "title_zh": "六祖壇經",
+   "title_en": "Platform Sutra",
+   "card_id": "ps-005",
+   "lines": [
+    "佛法在世間不離世間覺"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "acting"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The teaching is in the world; awakening is not apart from the world.",
+     "plain": "You would practise, meditate, read, breathe, if only the job and the family left any room for it.",
+     "story": "Huineng's verse says the teaching lives in the world, and that awakening is not found by leaving the world. To look for it apart from the world is like looking for a rabbit with horns.\n\nThe modern version of leaving the world is the retreat you cannot afford and the morning routine you cannot keep. Both are ways of saying that real practice is somewhere other than the kitchen at seven with a child's shoe missing. Huineng says the kitchen is the place. The shoe is the teaching. There is no other world where the practice would go better, and expecting it to appear is the thing that has been getting in the way. This is meant kindly. The room you wanted for practice has been here all along, and it is full of exactly the material practice is for.\n\nTen characters, the longest line in the pack. Take it a character at a time; that is the practice too.",
+     "reminder": "The kitchen at seven is the place.",
+     "acting": "Pick the most ordinary chore on today's list and do it as the practice, start to finish.",
+     "translator": "draft (Wong 1930 pending)"
+    },
+    "zh_hant": {
+     "translation": "佛法就在世間裡，覺悟離不開世間。",
+     "plain": "你本來會修行的，打坐、讀書、呼吸，只要工作和家庭留得出一點空間。",
+     "story": "惠能的偈說，佛法在世間，覺悟不是離開世間找到的。離開世間去找，像找長角的兔子。\n\n現代版的離開世間，是負擔不起的閉關，和堅持不了的晨間儀式。兩者都在說：真正的修行在別處，不在七點鐘、少了一隻童鞋的廚房。惠能說，廚房就是那個地方。那隻鞋就是佛法。沒有另一個世界讓修行進行得更順，等它出現這件事，正是一直擋在路上的東西。這是善意的。你想要的那間修行的房間一直都在，而且裝滿了修行正是為了它們而存在的材料。\n\n十個字，整組最長的一句。一次寫一個字；那也是修行。",
+     "reminder": "七點鐘的廚房，就是那個地方。",
+     "acting": "從今天的清單挑最平常的一件家事，把它從頭到尾當修行做完。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "佛法就在世间里，觉悟离不开世间。",
+     "plain": "你本来会修行的，打坐、读书、呼吸，只要工作和家庭留得出一点空间。",
+     "story": "惠能的偈说，佛法在世间，觉悟不是离开世间找到的。离开世间去找，像找长角的兔子。\n\n现代版的离开世间，是负担不起的闭关，和坚持不了的晨间仪式。两者都在说：真正的修行在别处，不在七点钟、少了一只童鞋的厨房。惠能说，厨房就是那个地方。那只鞋就是佛法。没有另一个世界让修行进行得更顺，等它出现这件事，正是一直挡在路上的东西。这是善意的。你想要的那间修行的房间一直都在，而且装满了修行正是为了它们而存在的材料。\n\n十个字，整组最长的一句。一次写一个字；那也是修行。",
+     "reminder": "七点钟的厨房，就是那个地方。",
+     "acting": "从今天的清单挑最平常的一件家事，把它从头到尾当修行做完。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "六祖壇經",
+    "text_name_en": "Platform Sutra",
+    "chapter": null,
+    "source_edition": "宗寶本; English: draft rendering, Wong Mou-lam 1930 pending",
+    "source_url": "https://zh.wikisource.org/wiki/六祖壇經"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 35,
+   "title_zh": "金剛經 第32章",
+   "title_en": "Diamond Sutra",
+   "card_id": "ds-004",
+   "lines": [
+    "一切有為法如夢幻泡影"
+   ],
+   "sensitivity": "impermanence",
+   "tags": [
+    "impermanence"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The phenomena of life may be likened unto a dream, a phantasm, a bubble, a shadow.",
+     "plain": "The company reorganised again, and the role you spent three years building was gone in a meeting.",
+     "story": "The sutra's closing verse: everything put together is like a dream, a phantasm, a bubble, a shadow, dew, a flash of lightning. Gemmell keeps four of the six images, and four are enough.\n\nA role built over three years and dissolved in one meeting is exactly what the verse describes: a thing put together, and therefore a thing that comes apart. The verse is not saying the three years were wasted, or that the loss is small. Bubbles are real while they last and the light on them is real. It is saying that the coming-apart was in the nature of the thing from the start, not a verdict on the builder. What was learned in the building does not dissolve with the title. Grieve the bubble, and notice that the hands that made it are still here.\n\nTen characters, with 夢幻泡影 in the middle: dream, phantasm, bubble, shadow. Write each of the four a little lighter than the last.",
+     "reminder": "The bubble was real while it lasted; the hands remain.",
+     "acting": "Write down the three things you can do now that you could not three years ago, and take them to the next role.",
+     "translator": "Gemmell 1912"
+    },
+    "zh_hant": {
+     "translation": "一切造作出來的東西，都像夢、像幻、像泡沫、像影子。",
+     "plain": "公司又重組了，你花三年建起來的位子，在一場會議裡沒有了。",
+     "story": "這部經結尾的偈：一切有為法，如夢幻泡影，如露亦如電。\n\n花三年建起來、一場會議就消失的位子，正是這首偈描述的：一樣組合起來的東西，因此是一樣會散開的東西。這首偈沒有說那三年白費，也沒有說損失小。泡沫在它還在的時候是真的，泡沫上的光也是真的。它說的是，散開從一開始就在那樣東西的性質裡，不是對建造的人的判決。在建造裡學到的東西不會跟頭銜一起散掉。為泡沫難過，然後注意，做出它的那雙手還在。\n\n十個字，中間是「夢幻泡影」：夢、幻、泡、影。四個字一個比一個寫得輕一點。",
+     "reminder": "泡沫在它還在的時候是真的；手還在。",
+     "acting": "寫下三件你現在做得到、三年前做不到的事，帶到下一個位子去。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "一切造作出来的东西，都像梦、像幻、像泡沫、像影子。",
+     "plain": "公司又重组了，你花三年建起来的位子，在一场会议里没有了。",
+     "story": "这部经结尾的偈：一切有为法，如梦幻泡影，如露亦如电。\n\n花三年建起来、一场会议就消失的位子，正是这首偈描述的：一样组合起来的东西，因此是一样会散开的东西。这首偈没有说那三年白费，也没有说损失小。泡沫在它还在的时候是真的，泡沫上的光也是真的。它说的是，散开从一开始就在那样东西的性质里，不是对建造的人的判决。在建造里学到的东西不会跟头衔一起散掉。为泡沫难过，然后注意，做出它的那双手还在。\n\n十个字，中间是「梦幻泡影」：梦、幻、泡、影。四个字一个比一个写得轻一点。",
+     "reminder": "泡沫在它还在的时候是真的；手还在。",
+     "acting": "写下三件你现在做得到、三年前做不到的事，带到下一个位子去。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "金剛經",
+    "text_name_en": "Diamond Sutra",
+    "chapter": 32,
+    "source_edition": "鳩摩羅什譯; English: Gemmell, The Diamond Sutra, Kegan Paul, London, 1912",
+    "source_url": "https://zh.wikisource.org/wiki/金剛般若波羅蜜經_(鳩摩羅什)"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 36,
+   "title_zh": "禪語",
+   "title_en": "Zen saying",
+   "card_id": "zen-006",
+   "lines": [
+    "隨處作主立處皆真"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Be the master wherever you are; wherever you stand is real.",
+     "plain": "In the new job, the new flat, the new country, you feel like a guest in your own life.",
+     "story": "Linji told his students: wherever you are, be the master there, and the place you stand becomes real. He was talking to monks who thought the real practice was at some other monastery under some other teacher.\n\nBeing a guest in your own life has a particular texture: the flat is furnished with someone else's choices, the job has rules written before you came, the city's streets are still being learned. Linji does not say to take over. He says to be the one at home, which is a stance rather than a title. Put the cup where you want the cup. Ask the question in the meeting. Walk the street as if it were yours to walk, because it is. Reality is not conferred by tenure; it starts where someone decides to stand.\n\nEight characters, two halves. Write the second half, 立處皆真, as a statement rather than a hope.",
+     "reminder": "Where you stand becomes real when you stand there.",
+     "acting": "Change one thing in your space or your routine today to a way that is plainly yours.",
+     "translator": "draft"
+    },
+    "zh_hant": {
+     "translation": "不管在哪裡，都做主；站的地方，都是真的。",
+     "plain": "新的工作、新的房子、新的國家，你在自己的生活裡像個客人。",
+     "story": "臨濟對學生說：隨處作主，立處皆真。他對的是一群以為真正的修行在別的寺院、別的老師那裡的僧人。\n\n在自己的生活裡當客人，有一種特定的質地：房子裡擺的是別人的選擇，工作的規矩在你來之前就寫好了，城裡的街道還在學。臨濟沒有叫人接管。他說的是做那個在家的人，那是一種姿態，不是頭銜。把杯子放在你想放的地方。在會議上把問題問出來。走那條街，就當它是你的，因為它就是。真實不是靠年資授予的；它從一個人決定站在那裡的地方開始。\n\n八個字，兩半。後一半「立處皆真」，寫成一句陳述，不是一個希望。",
+     "reminder": "站在那裡，那裡就變成真的。",
+     "acting": "今天把你的空間或作息裡的一樣東西，改成明白是你的樣子。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "不管在哪里，都做主；站的地方，都是真的。",
+     "plain": "新的工作、新的房子、新的国家，你在自己的生活里像个客人。",
+     "story": "临济对学生说：随处作主，立处皆真。他对的是一群以为真正的修行在别的寺院、别的老师那里的僧人。\n\n在自己的生活里当客人，有一种特定的质地：房子里摆的是别人的选择，工作的规矩在你来之前就写好了，城里的街道还在学。临济没有叫人接管。他说的是做那个在家的人，那是一种姿态，不是头衔。把杯子放在你想放的地方。在会议上把问题问出来。走那条街，就当它是你的，因为它就是。真实不是靠年资授予的；它从一个人决定站在那里的地方开始。\n\n八个字，两半。后一半「立处皆真」，写成一句陈述，不是一个希望。",
+     "reminder": "站在那里，那里就变成真的。",
+     "acting": "今天把你的空间或作息里的一样东西，改成明白是你的样子。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "禪語",
+    "text_name_en": "Zen saying",
+    "chapter": null,
+    "source_edition": "Classical Chan record; English: draft rendering",
+    "source_url": "https://zh.wikisource.org/"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 37,
+   "title_zh": "金剛經 第32章",
+   "title_en": "Diamond Sutra",
+   "card_id": "ds-007",
+   "lines": [
+    "如如不動"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The conscious blessedness of a mind at perfect rest.",
+     "plain": "Everything around you is moving at once, the job, the family, the news, and you have no still point to stand on.",
+     "story": "Near the end of the sutra the Buddha says that whoever explains it should do so without holding to appearances, thus, thus, unmoving. Gemmell renders the state as the conscious blessedness of a mind at perfect rest. The Chinese is four characters, two of them the same: so, so, not moving.\n\nA month when everything moves at once has no still point in it, and the line does not pretend it does. The still point is not in the month; it is in the one looking at it. Thus, thus: things are as they are, the job is changing, the parent is ageing, the news is loud. Not moving: the one who sees this does not have to be swept along in order to see it. That is not detachment from the people involved. It is the steadiness they will need from you, and the only place it can come from.\n\nFour characters, the first two identical. Write 如 twice, the same each time; that sameness is the whole instruction.",
+     "reminder": "Things are as they are; seeing them need not sweep you along.",
+     "acting": "Sit still for one minute before you answer the next moving thing, then answer it.",
+     "translator": "Gemmell 1912"
+    },
+    "zh_hant": {
+     "translation": "如其所是，不動。",
+     "plain": "你周圍的一切同時在動，工作、家人、新聞，你沒有一個可以站的靜點。",
+     "story": "經快結尾時，佛說，為人解說這部經的人，應該不取於相，如如不動。中文四個字，兩個相同：如，如，不動。\n\n一切同時在動的月份，裡面沒有靜點，這一句沒有假裝有。靜點不在那個月份裡；它在看著那個月份的人身上。如如：事情就是它們的樣子，工作在變，父母在老，新聞很吵。不動：看見這些的人，不必被捲走才看得見。這不是對相關的人的疏離。這是他們將需要你給的穩定，也是它唯一可能的來處。\n\n四個字，前兩個一樣。「如」寫兩次，每次都一樣；那份一樣就是全部的指令。",
+     "reminder": "事情就是它們的樣子；看見的人不必被捲走。",
+     "acting": "回答下一件在動的事之前，先靜坐一分鐘，然後再回答。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "如其所是，不动。",
+     "plain": "你周围的一切同时在动，工作、家人、新闻，你没有一个可以站的静点。",
+     "story": "经快结尾时，佛说，为人解说这部经的人，应该不取于相，如如不动。中文四个字，两个相同：如，如，不动。\n\n一切同时在动的月份，里面没有静点，这一句没有假装有。静点不在那个月份里；它在看着那个月份的人身上。如如：事情就是它们的样子，工作在变，父母在老，新闻很吵。不动：看见这些的人，不必被卷走才看得见。这不是对相关的人的疏离。这是他们将需要你给的稳定，也是它唯一可能的来处。\n\n四个字，前两个一样。「如」写两次，每次都一样；那份一样就是全部的指令。",
+     "reminder": "事情就是它们的样子；看见的人不必被卷走。",
+     "acting": "回答下一件在动的事之前，先静坐一分钟，然后再回答。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "金剛經",
+    "text_name_en": "Diamond Sutra",
+    "chapter": 32,
+    "source_edition": "鳩摩羅什譯; English: Gemmell, The Diamond Sutra, Kegan Paul, London, 1912",
+    "source_url": "https://zh.wikisource.org/wiki/金剛般若波羅蜜經_(鳩摩羅什)"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 38,
+   "title_zh": "六祖壇經",
+   "title_en": "Platform Sutra",
+   "card_id": "ps-006",
+   "lines": [
+    "一切福田不離方寸"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "acting"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "Every field of blessing lies within the square inch of the heart.",
+     "plain": "You have been counting on luck: the right contact, the market turning, the lottery of a good year.",
+     "story": "Huineng told the crowd that every field of blessing lies within the square inch, the old name for the heart. Do not plant elsewhere. The harvest comes from the plot you already own.\n\nCounting on luck is reasonable in a hard year, and it is also a way of standing still. The contact may come. The market may turn. Neither is under anyone's hand. The square inch is. The line moves the farming back to the one plot that is always available: the next honest hour of work, the next kindness that costs nothing, the next decision made with care. None of it guarantees a harvest. It is only where harvests have ever come from.\n\nEight characters. 方寸 is a square inch: the size of the space you are writing in. The field is that small, and that close.",
+     "reminder": "The field is a square inch, and it is yours.",
+     "acting": "Plant in the square inch today: one hour of honest work on the thing that is actually yours to do.",
+     "translator": "draft (Wong 1930 pending)"
+    },
+    "zh_hant": {
+     "translation": "一切的福田，都在方寸之間。",
+     "plain": "你一直在等運氣：對的人脈、市場轉向、抽中一個好年份的樂透。",
+     "story": "惠能對眾人說，一切福田，不離方寸，方寸是心的舊稱。別到別處去種。收成來自你已經擁有的那一塊地。\n\n艱難的年份裡等運氣是合理的，它同時也是一種站著不動。人脈也許會來。市場也許會轉。兩樣都不在誰的手裡。方寸在。這一句把耕作移回那塊永遠在的地：下一個誠實的工作小時，下一個不花錢的善意，下一個用心做的決定。沒有一樣保證收成。它只是收成從來的出處。\n\n八個字。「方寸」是一寸見方：差不多是你正在寫的那一格的大小。田就那麼小，那麼近。",
+     "reminder": "田只有一寸見方，而它是你的。",
+     "acting": "今天在方寸裡種：在真正屬於你做的那件事上，誠實地工作一個小時。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "一切的福田，都在方寸之间。",
+     "plain": "你一直在等运气：对的人脉、市场转向、抽中一个好年份的乐透。",
+     "story": "惠能对众人说，一切福田，不离方寸，方寸是心的旧称。别到别处去种。收成来自你已经拥有的那一块地。\n\n艰难的年份里等运气是合理的，它同时也是一种站着不动。人脉也许会来。市场也许会转。两样都不在谁的手里。方寸在。这一句把耕作移回那块永远在的地：下一个诚实的工作小时，下一个不花钱的善意，下一个用心做的决定。没有一样保证收成。它只是收成从来的出处。\n\n八个字。「方寸」是一寸见方：差不多是你正在写的那一格的大小。田就那么小，那么近。",
+     "reminder": "田只有一寸见方，而它是你的。",
+     "acting": "今天在方寸里种：在真正属于你做的那件事上，诚实地工作一个小时。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "六祖壇經",
+    "text_name_en": "Platform Sutra",
+    "chapter": null,
+    "source_edition": "宗寶本; English: draft rendering, Wong Mou-lam 1930 pending",
+    "source_url": "https://zh.wikisource.org/wiki/六祖壇經"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 39,
+   "title_zh": "金剛經 第6章",
+   "title_en": "Diamond Sutra",
+   "card_id": "ds-005",
+   "lines": [
+    "法尚應捨何況非法"
+   ],
+   "sensitivity": "none",
+   "tags": [
+    "letting_go"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "The Law which I enunciated, was presented before your minds in the simile of a raft.",
+     "plain": "The routine that saved you last year, the diet, the schedule, the rules, has started to feel like a cage.",
+     "story": "The Buddha compares his own teaching to a raft: useful for crossing the river, absurd to carry on your back afterwards. Even the teaching should be set down, he says; how much more everything else.\n\nA routine that worked in a crisis is a raft. The strict budget, the five-thirty alarm, the rule about no phone before noon: each got someone across a river. The line does not say to throw them away. It says to notice when the river is behind you and the raft has become a weight. That noticing is hard, because the raft is tied up with gratitude and with fear of the water. The test is simple: is the rule still carrying you, or are you carrying the rule? Rules that have become cargo can be put down on the far bank with thanks.\n\nEight characters. 捨, to set down, is the line's centre. Write it with an open hand.",
+     "reminder": "Thank the raft; leave it on the bank.",
+     "acting": "Pick one rule from last year's crisis and decide, in writing, whether it still carries you.",
+     "translator": "Gemmell 1912"
+    },
+    "zh_hant": {
+     "translation": "連正法都該捨，何況不是正法的東西。",
+     "plain": "去年救了你的那套作息，飲食、時間表、規矩，開始像一個籠子。",
+     "story": "佛把自己的教法比作筏：渡河有用，渡完了還背在背上就荒謬。他說，連教法都該捨，何況其他的東西。\n\n危機裡有效的作息，是一張筏。嚴格的預算，五點半的鬧鐘，中午前不碰手機的規矩：每一樣都載過某個人過河。這一句沒有叫人把它們丟掉。它說的是注意河已經在身後、筏已經變成重量的那一刻。這種注意不容易，因為筏綁著感謝，也綁著對水的害怕。測試很簡單：規矩還在載你，還是你在背規矩？變成貨物的規矩，可以帶著感謝放在對岸。\n\n八個字。「捨」是這一句的中心。用張開的手寫它。",
+     "reminder": "謝謝那張筏；把它留在岸邊。",
+     "acting": "從去年的危機裡挑一條規矩，寫下來判斷它是否還在載你。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "连正法都该舍，何况不是正法的东西。",
+     "plain": "去年救了你的那套作息，饮食、时间表、规矩，开始像一个笼子。",
+     "story": "佛把自己的教法比作筏：渡河有用，渡完了还背在背上就荒谬。他说，连教法都该舍，何况其他的东西。\n\n危机里有效的作息，是一张筏。严格的预算，五点半的闹钟，中午前不碰手机的规矩：每一样都载过某个人过河。这一句没有叫人把它们丢掉。它说的是注意河已经在身后、筏已经变成重量的那一刻。这种注意不容易，因为筏绑着感谢，也绑着对水的害怕。测试很简单：规矩还在载你，还是你在背规矩？变成货物的规矩，可以带着感谢放在对岸。\n\n八个字。「舍」是这一句的中心。用张开的手写它。",
+     "reminder": "谢谢那张筏；把它留在岸边。",
+     "acting": "从去年的危机里挑一条规矩，写下来判断它是否还在载你。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "金剛經",
+    "text_name_en": "Diamond Sutra",
+    "chapter": 6,
+    "source_edition": "鳩摩羅什譯; English: Gemmell, The Diamond Sutra, Kegan Paul, London, 1912",
+    "source_url": "https://zh.wikisource.org/wiki/金剛般若波羅蜜經_(鳩摩羅什)"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  },
+  {
+   "n": 40,
+   "title_zh": "金剛經 第7章",
+   "title_en": "Diamond Sutra",
+   "card_id": "ds-006",
+   "lines": [
+    "無有定法"
+   ],
+   "sensitivity": "negation",
+   "tags": [
+    "self"
+   ],
+   "meaning": {
+    "en": {
+     "translation": "He has no system of doctrine which can be specifically formulated.",
+     "plain": "You have read every method for getting your life in order and none of them survives contact with a Tuesday.",
+     "story": "Subhuti is asked whether the Buddha has a fixed teaching, and answers that there is none that can be laid down: what he teaches cannot be grasped as a formula. Gemmell's phrase is a system of doctrine which can be specifically formulated, and the sutra's answer is no.\n\nThe last card in the opening path is a release from the previous thirty-nine. None of them is the method. The person who reads every system and finds each one fails on a Tuesday is not failing at systems; they have discovered what the sutra says outright. Tuesdays differ. The tool that fits one does not fit the next, and the skill is not in finding the master tool but in picking, each morning, the small one that fits today. Forty lines have gone by. Keep whichever ones fit, and let the rest go on being true somewhere else.\n\nFour characters. 無有定法: no fixed method. Write it last, and then start the next line tomorrow with nothing carried over.",
+     "reminder": "No master tool; only the one that fits today.",
+     "acting": "Choose one small tool that fits this particular Tuesday, use it, and keep no score.",
+     "translator": "Gemmell 1912"
+    },
+    "zh_hant": {
+     "translation": "沒有固定的法。",
+     "plain": "你把每一套整頓人生的方法都讀過了，沒有一套撐得過一個星期二。",
+     "story": "有人問須菩提，佛有沒有固定的教法。他答，沒有一種可以定下來的：他教的東西抓不成一個公式。\n\n開篇的最後一句，是對前面三十九句的鬆綁。它們沒有一句是「那個方法」。把每一套系統都讀過、發現每一套都在某個星期二失效的人，不是在系統上失敗；他發現的正是這部經直接說出來的事。星期二各不相同。合這一個的工具不合下一個，本事不在找到那把萬能的工具，而在每天早上挑那把合今天的小工具。四十句過去了。合用的留著，其餘的讓它們在別的地方繼續是真的。\n\n四個字。無有定法：沒有固定的方法。最後寫它，然後明天開始下一句，什麼都不帶過去。",
+     "reminder": "沒有萬能的工具；只有合今天的那一把。",
+     "acting": "挑一把合這個星期二的小工具，用它，不記分。",
+     "translator": "draft"
+    },
+    "zh_hans": {
+     "translation": "没有固定的法。",
+     "plain": "你把每一套整顿人生的方法都读过了，没有一套撑得过一个星期二。",
+     "story": "有人问须菩提，佛有没有固定的教法。他答，没有一种可以定下来的：他教的东西抓不成一个公式。\n\n开篇的最后一句，是对前面三十九句的松绑。它们没有一句是「那个方法」。把每一套系统都读过、发现每一套都在某个星期二失效的人，不是在系统上失败；他发现的正是这部经直接说出来的事。星期二各不相同。合这一个的工具不合下一个，本事不在找到那把万能的工具，而在每天早上挑那把合今天的小工具。四十句过去了。合用的留着，其余的让它们在别的地方继续是真的。\n\n四个字。无有定法：没有固定的方法。最后写它，然后明天开始下一句，什么都不带过去。",
+     "reminder": "没有万能的工具；只有合今天的那一把。",
+     "acting": "挑一把合这个星期二的小工具，用它，不记分。",
+     "translator": "draft"
+    }
+   },
+   "source": {
+    "text_name_zh": "金剛經",
+    "text_name_en": "Diamond Sutra",
+    "chapter": 7,
+    "source_edition": "鳩摩羅什譯; English: Gemmell, The Diamond Sutra, Kegan Paul, London, 1912",
+    "source_url": "https://zh.wikisource.org/wiki/金剛般若波羅蜜經_(鳩摩羅什)"
+   },
+   "safety": {
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "bypass_check": null,
+    "blame_check": null,
+    "line_check": null
+   }
+  }
+ ]
+}
