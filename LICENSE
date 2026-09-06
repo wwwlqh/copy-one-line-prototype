@@ -1,0 +1,22 @@
+Copyright (c) 2026 wwwlqh. All rights reserved.
+
+The HTML, CSS, script and written copy in this repository are proprietary.
+They are published so that people can open and try the page, and for
+portfolio and reference purposes only.
+
+No licence is granted. Without prior written permission from the copyright
+holder you may not copy, modify, redistribute, sell, or create derivative
+works from this material, and you may not use it to train or evaluate
+machine-learning systems. Viewing and forking on GitHub is permitted only to
+the extent GitHub's Terms of Service require for the operation of the site.
+
+Third-party components in this repository are NOT covered by this notice and
+remain under their own licences:
+
+  - The glyph stroke data in data/ is distributed under the Arphic Public
+    License. See licenses/ARPHIC_PUBLIC_LICENSE.txt.
+  - hanzi-writer is MIT licensed, copyright David Chanin. See
+    licenses/hanzi-writer-MIT.txt.
+  - Noto Serif TC and Source Sans 3 are under the SIL Open Font License 1.1.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

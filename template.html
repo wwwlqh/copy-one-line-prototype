@@ -1,0 +1,164 @@
+<title>Copy One Line</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+  :root {
+    --paper: #EDEFE8; --ink: #1C211E; --ink-2: #5A625C; --rule: #CED4CB; --celadon: #5F8271; --seal: #B23B2A;
+    --cjk: "Noto Serif TC", "Noto Serif SC", "PMingLiU", serif;
+    --body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --paper:#151917; --ink:#E3E6DE; --ink-2:#A5AEA7; --rule:#333D35; --celadon:#8FB0A0; --seal:#E87967; }
+  }
+  :root[data-theme="dark"] { --paper:#151917; --ink:#E3E6DE; --ink-2:#A5AEA7; --rule:#333D35; --celadon:#8FB0A0; --seal:#E87967; }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 17px; line-height: 1.5; -webkit-font-smoothing: antialiased; }
+  .app { min-height: 100%; max-width: 480px; margin: 0 auto; padding: 20px 24px 32px; display: flex; flex-direction: column; gap: 24px; }
+  .nav { display: flex; justify-content: space-between; font-size: 14px; color: var(--ink-2); }
+  .nav span { margin-right: 16px; }
+  .src { font-size: 14px; color: var(--ink-2); margin: 0; }
+  .src .zh { font-family: var(--cjk); }
+  .model { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+  .model .g { width: 72px; height: 72px; }
+  .model .g svg { display: block; }
+  .textbtn { background: none; border: none; color: var(--ink-2); font-family: var(--body); font-size: 16px; padding: 8px 12px; cursor: pointer; align-self: center; }
+  .textbtn:focus-visible, button:focus-visible { outline: 2px solid var(--seal); outline-offset: 2px; }
+  .translation { font-family: var(--cjk); font-size: 21px; line-height: 1.6; margin: 0; }
+  .meaning { color: var(--ink-2); margin: 0; font-style: italic; display: none; }
+  .meaning.open { display: block; }
+  .actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: auto; }
+  button.primary { font-family: var(--body); font-size: 16px; font-weight: 600; padding: 12px 22px; border-radius: 8px; border: 1px solid var(--ink); background: var(--ink); color: var(--paper); cursor: pointer; min-height: 48px; }
+  button.secondary { font-family: var(--body); font-size: 16px; padding: 12px 20px; border-radius: 8px; border: 1px solid var(--ink-2); background: transparent; color: var(--ink); cursor: pointer; min-height: 48px; }
+  .written { text-align: center; color: var(--ink-2); margin: 0; }
+  [hidden] { display: none !important; }
+  .breath { display: flex; flex-direction: column; align-items: center; gap: 24px; padding: 10px 0; }
+  .stage { width: 232px; height: 232px; display: grid; place-items: center; }
+  .circle { width: 180px; height: 180px; border-radius: 50%; background: var(--celadon); transform: scale(.6); transition: transform 1s linear; }
+  .breath .label { font-size: 22px; font-family: var(--cjk); letter-spacing: .1em; min-height: 2.6em; text-align: center; }
+  .setdown { text-align: center; padding: 24px 0; }
+  .setdown .zh { font-family: var(--cjk); font-size: 22px; letter-spacing: .16em; margin: 0 0 6px; }
+  .setdown p { color: var(--ink-2); margin: 0 0 22px; }
+  @media (prefers-reduced-motion: reduce) { .circle { transition: none; } }
+</style>
+
+<div class="app">
+  <div class="nav"><div><span>Breathe</span><span>Scroll</span><span>Settings</span></div><div>Help</div></div>
+
+  <section class="screen" id="s-today">
+    <p class="src"><span class="zh">金剛經</span> · Diamond Sutra</p>
+    <div class="model" id="model" aria-label="應無所住而生其心"></div>
+    <button class="textbtn" id="btn-strokes">Show the strokes</button>
+    <p class="translation">Let the mind arise without settling anywhere.</p>
+    <button class="textbtn" id="btn-meaning">Read the meaning</button>
+    <p class="meaning" id="meaning">Handle the 10am criticism fully. Then don't let it follow you home at 10pm. The mirror reflects what comes and holds nothing when it goes.</p>
+    <div class="actions" id="actions">
+      <button class="primary" id="btn-written">I've written it</button>
+      <button class="secondary" id="btn-photo">Add a photo</button>
+    </div>
+    <div class="actions" id="rest" hidden>
+      <p class="written" style="width:100%">Written.</p>
+      <button class="primary" id="btn-breathe">Breathe</button>
+    </div>
+  </section>
+
+  <section class="screen" id="s-breathe" hidden>
+    <div class="breath">
+      <div class="stage"><div class="circle" id="circle"></div></div>
+      <div class="label" id="blabel">Breathe in</div>
+      <button class="textbtn" id="btn-done">Done</button>
+    </div>
+  </section>
+
+  <section class="screen" id="s-end" hidden>
+    <div class="setdown">
+      <p class="zh">先放著</p>
+      <p>Set it down for now. Nothing here counts down, and nothing is at stake.</p>
+      <div class="actions"><button class="secondary" id="btn-again">Back to today</button></div>
+    </div>
+  </section>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7.0/dist/hanzi-writer.min.js"></script>
+<script>
+/*__DATA__*/
+(function () {
+  const LINE = ['應','無','所','住','而','生','其','心'];
+  const $ = (id) => document.getElementById(id);
+  const css = (n) => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const writers = [];
+
+  // The model: the whole line, rendered from stroke data, at rest.
+  LINE.forEach((ch) => {
+    const el = document.createElement('div');
+    el.className = 'g';
+    $('model').appendChild(el);
+    writers.push(HanziWriter.create(el, ch, {
+      width: 72, height: 72, padding: 4,
+      showCharacter: true, showOutline: false,
+      strokeColor: css('--ink'),
+      strokeAnimationSpeed: 0.6, delayBetweenStrokes: 300,
+      charDataLoader: (c, done) => done(CHAR_DATA[c])
+    }));
+  });
+
+  // Show the strokes: one character at a time, calm pace, then rest.
+  let animating = false;
+  function showStrokes() {
+    if (animating) return;
+    animating = true;
+    $('btn-strokes').textContent = 'Showing…';
+    const step = (i) => {
+      if (i >= writers.length) { animating = false; $('btn-strokes').textContent = 'Show the strokes'; return; }
+      writers[i].hideCharacter({ duration: 0 });
+      writers[i].animateCharacter({ onComplete: () => setTimeout(() => step(i + 1), 600) });
+    };
+    if (reduced) { // step through without motion: reveal each character whole, in order
+      let i = 0;
+      const tick = () => { if (i >= writers.length) { animating = false; $('btn-strokes').textContent = 'Show the strokes'; return; } writers[i].hideCharacter({duration:0}); writers[i].showCharacter({duration:0}); i++; setTimeout(tick, 700); };
+      writers.forEach(w => w.hideCharacter({duration:0}));
+      tick();
+    } else {
+      writers.forEach(w => w.hideCharacter({ duration: 0 }));
+      step(0);
+    }
+  }
+  $('btn-strokes').addEventListener('click', showStrokes);
+  $('btn-meaning').addEventListener('click', () => $('meaning').classList.toggle('open'));
+
+  function written() {
+    $('actions').hidden = true;
+    $('rest').hidden = false;
+  }
+  $('btn-written').addEventListener('click', written);
+  $('btn-photo').addEventListener('click', () => { alert('In the app this opens the camera. Prototype: counts as written.'); written(); });
+
+  // Breathe: 13 cycles of 2 + 1 + 6 s, ends on an exhale.
+  let timers = [];
+  function clear() { timers.forEach(clearTimeout); timers = []; }
+  function breathe() {
+    $('s-today').hidden = true; $('s-breathe').hidden = false;
+    const circle = $('circle'), label = $('blabel');
+    const phases = [
+      { t: 'Breathe in', s: 1.0, ms: 2000 },
+      { t: 'A little more', s: 1.08, ms: 1000 },
+      { t: 'Long breath out', s: .6, ms: 6000 }
+    ];
+    let cycle = 0, p = 0;
+    const step = () => {
+      if (cycle >= 13) { label.textContent = 'Set it down.'; timers.push(setTimeout(end, 1200)); return; }
+      const ph = phases[p];
+      label.textContent = ph.t;
+      if (!reduced) { circle.style.transition = `transform ${ph.ms}ms ease-in-out`; circle.style.transform = `scale(${ph.s})`; }
+      else { circle.style.transform = 'scale(.85)'; }
+      p += 1; if (p === phases.length) { p = 0; cycle += 1; }
+      timers.push(setTimeout(step, ph.ms));
+    };
+    step();
+  }
+  function end() { clear(); $('s-breathe').hidden = true; $('s-end').hidden = false; }
+  $('btn-breathe').addEventListener('click', breathe);
+  $('btn-done').addEventListener('click', () => { clear(); $('s-breathe').hidden = true; $('s-today').hidden = false; });
+  $('btn-again').addEventListener('click', () => { $('s-end').hidden = true; $('s-today').hidden = false; });
+})();
+</script>
