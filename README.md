@@ -2,7 +2,7 @@
 
 **Try the prototype:** https://wwwlqh.github.io/copy-one-line-prototype/ (works best on a phone)
 
-**Try the current app in your browser:** https://wwwlqh.github.io/copy-one-line-prototype/app/ (a compiled build of the paper-first app; the first load fetches about 17 MB of fonts)
+**Try the current app in your browser:** https://149.118.150.243/ (a compiled build of the paper-first app; the first load fetches about 17 MB of fonts)
 
 One line of ancient wisdom a day. You copy it, you learn what it means, and then
 you breathe. Nothing is scored, nothing is streaked, and the app never tells you
