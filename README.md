@@ -4,8 +4,8 @@
 
 **Try the current app in your browser:** https://149.118.150.243/ (a compiled build of the paper-first app; the first load fetches about 17 MB of fonts)
 
-One line of ancient wisdom a day. You copy it, you learn what it means, and then
-you breathe. Nothing is scored, nothing is streaked, and the app never tells you
+One line of ancient wisdom at a time. You copy it by hand and you learn what it
+means. Nothing is scored, nothing is streaked, and the app never tells you
 bad news.
 
 This page was the week-one prototype: a single HTML file where you trace the
@@ -18,11 +18,11 @@ circle that leans on the long exhale.
 Using it settled one thing quickly: a finger on glass is not writing. The pen has no grip, the thumb drags, a warm hand slips. So the
 product changed direction. The real app, now in private development, shows the
 line and animates its stroke order, and the hand does the copying on paper.
-The phone teaches, remembers, and breathes. Paper does the rest.
+The phone teaches and remembers. Paper does the rest.
 
 This prototype is kept here as the record of that first week: the stroke-data
-pipeline, the reveal-under-the-thumb idea, and the breathing timing all
-survived into the current build.
+pipeline and the reveal-under-the-thumb idea survived into the current build
+(the breathing screen did not).
 
 ## How it works
 
